@@ -1,0 +1,23 @@
+{
+	id: "14578ECF0EE3C3E9"
+	group: ""
+	order_index: 2
+	filename: "pneumaticcraft"
+	title: "Pneumaticcraft"
+	icon: "pneumaticcraft:printed_circuit_board"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [{
+		title: "WIP"
+		x: -1.0d
+		y: 0.5d
+		description: ["WIP"]
+		id: "7E05D0689099AC51"
+		tasks: [{
+			id: "0A5BC1EFDD68BD85"
+			type: "item"
+			item: "pneumaticcraft:pressure_tube"
+		}]
+	}]
+	quest_links: [ ]
+}

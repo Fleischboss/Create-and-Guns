@@ -1,0 +1,35 @@
+{
+	id: "6A3D88D1553260E9"
+	group: ""
+	order_index: 1
+	filename: "immersive_engineering"
+	title: "Immersive Engineering"
+	icon: {
+		id: "immersiveengineering:hammer"
+		Count: 1b
+		tag: {
+			Damage: 0
+		}
+	}
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [{
+		title: "WIP"
+		x: -10.0d
+		y: 0.0d
+		description: ["WIP!"]
+		id: "6324E880FDF42440"
+		tasks: [{
+			id: "4A201BD95C0F1E78"
+			type: "item"
+			item: {
+				id: "immersiveengineering:hammer"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}]
+	}]
+	quest_links: [ ]
+}

@@ -1,0 +1,1000 @@
+{
+	id: "7C514B8BDCA82356"
+	group: ""
+	order_index: 0
+	filename: "create"
+	title: "Create"
+	icon: "create:wrench"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: -8.0d
+			y: 0.0d
+			description: ["Andesite Alloys are the most basic material in the create mod."]
+			id: "69AD6A9FFAC7C317"
+			tasks: [{
+				id: "1012EA2884D358CA"
+				type: "item"
+				item: "create:andesite_alloy"
+			}]
+		}
+		{
+			x: -5.0d
+			y: 0.0d
+			description: ["The mechanical press can be used in combination with a hand crank to craft sheets early game."]
+			dependencies: ["0D543DA8DD371E9E"]
+			id: "4C79A58C0D76468E"
+			tasks: [
+				{
+					id: "307B16D45A8DCF8E"
+					type: "item"
+					item: "create:mechanical_press"
+				}
+				{
+					id: "196BE22DB62887D4"
+					type: "item"
+					item: "create:hand_crank"
+				}
+			]
+		}
+		{
+			x: -6.5d
+			y: 0.0d
+			description: ["Andesite Casings are used for most basic machines."]
+			dependencies: ["69AD6A9FFAC7C317"]
+			id: "0D543DA8DD371E9E"
+			tasks: [{
+				id: "2CD8B4AF6671A299"
+				type: "item"
+				item: "create:andesite_casing"
+			}]
+		}
+		{
+			title: "The Basic Equipment"
+			x: -3.5d
+			y: 0.0d
+			description: ["Used for rotating, configuring and displaying certain things."]
+			dependencies: ["4C79A58C0D76468E"]
+			id: "043A8FCB2D64F8F6"
+			tasks: [
+				{
+					id: "15E4A18DB1177AD0"
+					type: "item"
+					item: "create:goggles"
+				}
+				{
+					id: "28D0C39D4EBAE156"
+					type: "item"
+					item: "create:wrench"
+				}
+			]
+		}
+		{
+			title: "Basic rotation transfer"
+			x: -0.5d
+			y: 0.0d
+			description: ["These blocks are useful for transfering, speeding up/slowing down and cutting rotational power."]
+			dependencies: ["043A8FCB2D64F8F6"]
+			id: "147237D322BF2698"
+			tasks: [
+				{
+					id: "044EE8EE030D4AAE"
+					type: "item"
+					item: "create:cogwheel"
+				}
+				{
+					id: "341C2CD3DCE6315E"
+					type: "item"
+					item: "create:large_cogwheel"
+				}
+				{
+					id: "112FEFBF6D3191FC"
+					type: "item"
+					item: "create:shaft"
+				}
+				{
+					id: "60B14075AF3F0856"
+					type: "item"
+					item: "create:gearbox"
+				}
+				{
+					id: "1C597094233B466A"
+					type: "item"
+					item: "create:vertical_gearbox"
+				}
+				{
+					id: "39F720548AE19EB7"
+					type: "item"
+					item: "create:gearshift"
+				}
+			]
+		}
+		{
+			x: -5.0d
+			y: -1.5d
+			description: ["Item vaults can store large quantities of items when connected."]
+			dependencies: ["4C79A58C0D76468E"]
+			id: "57C605FA17C9A744"
+			tasks: [{
+				id: "35FB07DD6BF11869"
+				type: "item"
+				item: "create:item_vault"
+			}]
+		}
+		{
+			title: "Basic Item transfer"
+			x: -0.5d
+			y: 5.5d
+			description: [""]
+			dependencies: ["043A8FCB2D64F8F6"]
+			id: "2147C7DA53B17D72"
+			tasks: [
+				{
+					id: "15226A79A37DE783"
+					type: "item"
+					item: "create:belt_connector"
+				}
+				{
+					id: "63B6AD9E6C6B72A8"
+					type: "item"
+					item: "create:andesite_funnel"
+				}
+				{
+					id: "6A613B4D81D12390"
+					type: "item"
+					item: "create:andesite_tunnel"
+				}
+				{
+					id: "4048A4EA558D156A"
+					type: "item"
+					item: "create:chute"
+				}
+			]
+		}
+		{
+			title: "Basic fluid transfer"
+			x: -0.5d
+			y: 2.5d
+			dependencies: ["043A8FCB2D64F8F6"]
+			id: "11C190813F28BD2F"
+			tasks: [
+				{
+					id: "7107F8D8D416A178"
+					type: "item"
+					item: "create:hose_pulley"
+				}
+				{
+					id: "0D626BE4E781F4FA"
+					type: "item"
+					item: "create:fluid_pipe"
+				}
+				{
+					id: "62BA5948F9E2FFEA"
+					type: "item"
+					item: "create:mechanical_pump"
+				}
+				{
+					id: "2D9F908552E0B7D2"
+					type: "item"
+					item: "create:item_drain"
+				}
+				{
+					id: "0F6EC9D45E8EF5C9"
+					type: "item"
+					item: "create:fluid_valve"
+				}
+				{
+					id: "3DA54AD6A256F7F3"
+					type: "item"
+					item: "create:copper_valve_handle"
+				}
+				{
+					id: "51BB72C13F370932"
+					type: "item"
+					item: "create:fluid_tank"
+				}
+			]
+		}
+		{
+			title: "Basic stress sources"
+			x: -0.5d
+			y: -3.5d
+			description: ["Hand cranks are nice and all, but if you want a more automated and powerful solution, here are some options,"]
+			dependencies: ["043A8FCB2D64F8F6"]
+			id: "1EBD9631C8C6354A"
+			tasks: [
+				{
+					id: "35430CB1AEE8CBC5"
+					type: "item"
+					item: "create:white_sail"
+				}
+				{
+					id: "280F2F73955F7BA0"
+					type: "item"
+					item: "create:windmill_bearing"
+				}
+				{
+					id: "158BF63029AA70DB"
+					type: "item"
+					item: "create:water_wheel"
+				}
+			]
+		}
+		{
+			title: "Moving blocks"
+			x: 1.5d
+			y: -5.0d
+			description: ["Using this blocks in combination with super glue and a rotation source, you can move multiple blocks at once."]
+			dependencies: [
+				"1EBD9631C8C6354A"
+				"147237D322BF2698"
+			]
+			id: "6042691267CF6CFA"
+			tasks: [
+				{
+					id: "7B5C658367720020"
+					type: "item"
+					item: "create:mechanical_bearing"
+				}
+				{
+					id: "6C045E1AC072D345"
+					type: "item"
+					item: "create:mechanical_piston"
+				}
+				{
+					id: "6B8A98FD2779E7F9"
+					type: "item"
+					item: "create:piston_extension_pole"
+				}
+				{
+					id: "5EBFD3F1ADEB6CEF"
+					type: "item"
+					item: {
+						id: "create:super_glue"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "2B39EDAD21161511"
+					type: "item"
+					item: "create:rope_pulley"
+				}
+				{
+					id: "03D3E4E353C3ACD6"
+					type: "item"
+					item: "create:gantry_shaft"
+				}
+				{
+					id: "2102342E1FEB3AEE"
+					type: "item"
+					item: "create:gantry_carriage"
+				}
+				{
+					id: "3E78A96AA74DEA11"
+					type: "item"
+					item: "create:cart_assembler"
+				}
+			]
+		}
+		{
+			title: "Block Breakers"
+			x: 6.5d
+			y: -5.0d
+			description: ["Using these blocks you can destroy things automatically. Works on contraptions,"]
+			dependencies: [
+				"1EBD9631C8C6354A"
+				"147237D322BF2698"
+			]
+			id: "55D49A5771A69F20"
+			tasks: [
+				{
+					id: "66110913369678EC"
+					type: "item"
+					item: "create:mechanical_drill"
+				}
+				{
+					id: "4FE682A87C309A9C"
+					type: "item"
+					item: "create:mechanical_saw"
+				}
+				{
+					id: "6654B8C4A5EEF87C"
+					type: "item"
+					item: "create:mechanical_plough"
+				}
+			]
+		}
+		{
+			title: "Mixing"
+			icon: "create:mechanical_mixer"
+			x: 3.5d
+			y: 0.0d
+			description: ["Using a basin, a mixer, a heated blaze burner and some rotational energy new alloys can be created."]
+			dependencies: [
+				"1EBD9631C8C6354A"
+				"147237D322BF2698"
+				"5FB6EB94A188DC97"
+			]
+			id: "1BF0A7747E6DAF43"
+			tasks: [
+				{
+					id: "64AE865F6FCFA879"
+					type: "item"
+					item: "create:mechanical_mixer"
+				}
+				{
+					id: "5EF9DD2BCF70C9F4"
+					type: "item"
+					item: "create:blaze_burner"
+				}
+				{
+					id: "16145C4E4A6BFCCE"
+					type: "item"
+					item: "create:basin"
+				}
+			]
+		}
+		{
+			x: 9.5d
+			y: -2.5d
+			description: ["Bronze is an Alloy with a variety of uses,"]
+			dependencies: ["1BF0A7747E6DAF43"]
+			id: "3EE711C4C0523DC1"
+			tasks: [{
+				id: "1E2DF0E43457853C"
+				type: "item"
+				item: "alloyed:bronze_ingot"
+			}]
+		}
+		{
+			x: 10.5d
+			y: -4.0d
+			description: ["Make fancy sounds with this."]
+			dependencies: ["3EE711C4C0523DC1"]
+			id: "67BE98FD9A3F634F"
+			tasks: [{
+				id: "0055C96D65D5DB50"
+				type: "item"
+				item: "alloyed:bronze_bell"
+			}]
+		}
+		{
+			title: "Smelting Metals"
+			x: 5.5d
+			y: -8.5d
+			description: ["Melting Metals is important for casting cannons."]
+			dependencies: [
+				"1BF0A7747E6DAF43"
+				"11C190813F28BD2F"
+			]
+			id: "72DFA59A625325E1"
+			tasks: [{
+				id: "255F28063C3B212B"
+				type: "item"
+				item: "createbigcannons:basin_foundry_lid"
+			}]
+		}
+		{
+			x: 10.0d
+			y: -7.5d
+			description: ["Bronze is a very basic material for cannon casting."]
+			dependencies: [
+				"72DFA59A625325E1"
+				"3EE711C4C0523DC1"
+			]
+			id: "4E5CA94950F5B23A"
+			tasks: [{
+				id: "62F4B9FF4B85C675"
+				type: "item"
+				item: "createbigcannons:molten_bronze_bucket"
+			}]
+		}
+		{
+			x: 3.0d
+			y: -14.5d
+			id: "6D2DDDC000C08E87"
+			tasks: [{
+				id: "3A307110E939F87F"
+				type: "item"
+				item: "alloyed:steel_ingot"
+			}]
+		}
+		{
+			x: 10.0d
+			y: -9.5d
+			description: ["Steel is a sturdy material for cannons."]
+			dependencies: [
+				"72DFA59A625325E1"
+				"6D2DDDC000C08E87"
+			]
+			id: "3C9CDE198BE06D40"
+			tasks: [{
+				id: "0FE237A9E429B561"
+				type: "item"
+				item: "createbigcannons:molten_steel_bucket"
+			}]
+		}
+		{
+			x: 1.0d
+			y: -11.5d
+			id: "5FB6EB94A188DC97"
+			tasks: [{
+				id: "59CDEE1F76C1B39C"
+				type: "item"
+				item: "createbigcannons:cast_iron_ingot"
+			}]
+		}
+		{
+			x: 10.0d
+			y: -8.5d
+			description: ["Slightly worse than steel, but easier to come by."]
+			dependencies: [
+				"72DFA59A625325E1"
+				"5FB6EB94A188DC97"
+			]
+			id: "1293940E46EC9141"
+			tasks: [{
+				id: "18813DC36C8A3AA7"
+				type: "item"
+				item: "createbigcannons:molten_cast_iron_bucket"
+			}]
+		}
+		{
+			x: 2.0d
+			y: -13.0d
+			dependencies: ["1BF0A7747E6DAF43"]
+			id: "3B1DC43E7A8C1205"
+			tasks: [{
+				id: "4DBB5243B8A3C19B"
+				type: "item"
+				item: "createbigcannons:nethersteel_ingot"
+			}]
+		}
+		{
+			x: 10.0d
+			y: -10.5d
+			description: ["The best material for cannons, but very expensive and heavy,"]
+			dependencies: [
+				"3B1DC43E7A8C1205"
+				"72DFA59A625325E1"
+			]
+			id: "6FE5B763F0528831"
+			tasks: [{
+				id: "19F09882C68937FB"
+				type: "item"
+				item: "createbigcannons:molten_nethersteel_bucket"
+			}]
+		}
+		{
+			x: 12.0d
+			y: -9.0d
+			description: ["Casting sand is important for casting cannons."]
+			dependencies: [
+				"1293940E46EC9141"
+				"6FE5B763F0528831"
+				"3C9CDE198BE06D40"
+				"4E5CA94950F5B23A"
+			]
+			id: "2BD8C9229D460723"
+			tasks: [{
+				id: "4BE2E287544EB28C"
+				type: "item"
+				item: "createbigcannons:casting_sand"
+			}]
+		}
+		{
+			x: -0.5d
+			y: -2.0d
+			description: ["Can push entities, bulk wash, bulk haunt, bulk smoke and bulk blast,"]
+			dependencies: ["043A8FCB2D64F8F6"]
+			id: "66AC80CAB518F382"
+			tasks: [{
+				id: "1DC54C454FB57ED3"
+				type: "item"
+				item: "create:encased_fan"
+			}]
+		}
+		{
+			x: 13.5d
+			y: -9.0d
+			description: ["Needed for assembly cannons."]
+			dependencies: ["2BD8C9229D460723"]
+			id: "12B0EB5DF2F3ED7B"
+			tasks: [{
+				id: "7160EFFA0079AD3B"
+				type: "item"
+				item: "createbigcannons:cannon_drill"
+			}]
+		}
+		{
+			x: 13.5d
+			y: -10.5d
+			description: ["Needed for steel and nethersteel cannons."]
+			dependencies: ["2BD8C9229D460723"]
+			id: "18D43859BA32734C"
+			tasks: [{
+				id: "2AFB4E2ABD0170B3"
+				type: "item"
+				item: "createbigcannons:cannon_builder"
+			}]
+		}
+		{
+			x: 15.0d
+			y: -9.0d
+			description: ["Used for firing cannons."]
+			dependencies: ["12B0EB5DF2F3ED7B"]
+			id: "5ABFE63F7FE3228A"
+			tasks: [{
+				id: "64D1811BD2E17DD9"
+				type: "item"
+				item: "createbigcannons:cannon_mount"
+			}]
+		}
+		{
+			title: "Autocannon Ammo"
+			x: 17.5d
+			y: -11.5d
+			dependencies: [
+				"6D2DDDC000C08E87"
+				"5FB6EB94A188DC97"
+			]
+			id: "7A625BA977B87D24"
+			tasks: [
+				{
+					id: "50D127A72600C272"
+					type: "item"
+					item: "createbigcannons:ap_autocannon_round"
+				}
+				{
+					id: "136DE0970F3EAECE"
+					type: "item"
+					item: {
+						id: "createbigcannons:flak_autocannon_round"
+						Count: 1b
+						tag: { }
+					}
+				}
+			]
+		}
+		{
+			title: "Basic cannon munition"
+			x: 16.5d
+			y: -9.0d
+			description: ["For the humble warcrimes"]
+			dependencies: ["5ABFE63F7FE3228A"]
+			id: "33E6230721386E31"
+			tasks: [
+				{
+					id: "09C4B867FC5EE85D"
+					type: "item"
+					item: "createbigcannons:solid_shot"
+				}
+				{
+					id: "36261A052E5B7E10"
+					type: "item"
+					item: "createbigcannons:ap_shot"
+				}
+				{
+					id: "30C42B312C3D8768"
+					type: "item"
+					item: "createbigcannons:bag_of_grapeshot"
+				}
+				{
+					id: "79D2A033E0AA96D1"
+					type: "item"
+					item: "createbigcannons:mortar_stone"
+				}
+			]
+		}
+		{
+			title: "Advanced Cannon munition"
+			x: 18.0d
+			y: -9.0d
+			description: ["For more boom"]
+			dependencies: ["33E6230721386E31"]
+			id: "1151EA567D43EDDD"
+			tasks: [
+				{
+					id: "5982A658374D3117"
+					type: "item"
+					item: "createbigcannons:he_shell"
+				}
+				{
+					id: "3604DDA1CDA9B40D"
+					type: "item"
+					item: {
+						id: "createbigcannons:proximity_fuze"
+						Count: 1b
+						tag: { }
+					}
+				}
+				{
+					id: "448F0CB73F78157E"
+					type: "item"
+					item: {
+						id: "createbigcannons:timed_fuze"
+						Count: 1b
+						tag: { }
+					}
+				}
+				{
+					id: "3D3A40F98E981DC8"
+					type: "item"
+					item: "createbigcannons:impact_fuze"
+				}
+				{
+					id: "7BBEC71D53DE53FB"
+					type: "item"
+					item: "createbigcannons:shrapnel_shell"
+				}
+				{
+					id: "6DF3A60997FE4CDA"
+					type: "item"
+					item: "createbigcannons:ap_shell"
+				}
+				{
+					id: "0464F37A83AD2EB0"
+					type: "item"
+					item: "createbigcannons:fluid_shell"
+				}
+			]
+		}
+		{
+			x: 9.0d
+			y: 0.0d
+			description: ["The material used for advanced blocks"]
+			dependencies: ["1BF0A7747E6DAF43"]
+			id: "6ACFC7E2CA84ADF4"
+			tasks: [{
+				id: "2760BC77740C5E02"
+				type: "item"
+				item: "create:brass_ingot"
+			}]
+		}
+		{
+			x: 11.5d
+			y: 0.0d
+			dependencies: ["6ACFC7E2CA84ADF4"]
+			id: "6E1A2EBB60450462"
+			tasks: [{
+				id: "7E3AA7F3412CB4A3"
+				type: "item"
+				item: "create:brass_casing"
+			}]
+		}
+		{
+			x: 10.5d
+			y: 1.5d
+			description: ["Can create blocks or craft complex recipes."]
+			dependencies: ["6ACFC7E2CA84ADF4"]
+			id: "6918431FBE2EFC6C"
+			tasks: [{
+				id: "105A9CABAE534BC9"
+				type: "item"
+				item: "create:deployer"
+			}]
+		}
+		{
+			x: 16.5d
+			y: 5.5d
+			dependencies: ["6918431FBE2EFC6C"]
+			id: "722EC0A7E38B8F91"
+			tasks: [{
+				id: "1BCB299854DDA0A0"
+				type: "item"
+				item: "create:precision_mechanism"
+			}]
+		}
+		{
+			title: "Precision machines"
+			x: 17.5d
+			y: 2.0d
+			dependencies: [
+				"722EC0A7E38B8F91"
+				"6E1A2EBB60450462"
+			]
+			id: "75F23BC801B9E1EE"
+			tasks: [
+				{
+					id: "75468B58EA8E8A40"
+					type: "item"
+					item: "create:rotation_speed_controller"
+				}
+				{
+					id: "2C229E762BF2B2AA"
+					type: "item"
+					item: "create:sequenced_gearshift"
+				}
+				{
+					id: "03503AFBE6BB26DF"
+					type: "item"
+					item: "create:mechanical_arm"
+				}
+			]
+		}
+		{
+			x: 18.5d
+			y: -6.5d
+			description: ["Whats the time?"]
+			dependencies: ["6E1A2EBB60450462"]
+			id: "4EE0E38C70D12B92"
+			tasks: [{
+				id: "3118078A96A04957"
+				type: "item"
+				item: "create:clockwork_bearing"
+			}]
+		}
+		{
+			x: 18.0d
+			y: -3.5d
+			description: ["Autocrafting!"]
+			dependencies: ["6E1A2EBB60450462"]
+			id: "26A29EE3D1FEF0CE"
+			tasks: [{
+				id: "066AD6AE8AEF57FE"
+				type: "item"
+				item: "create:mechanical_crafter"
+			}]
+		}
+		{
+			title: "Advanced Item Transportation"
+			x: 16.0d
+			y: 2.5d
+			dependencies: ["6E1A2EBB60450462"]
+			id: "293BA23FC087266F"
+			tasks: [
+				{
+					id: "3466C3C817B7E21D"
+					type: "item"
+					item: "create:brass_funnel"
+				}
+				{
+					id: "1141C8B802011049"
+					type: "item"
+					item: "create:brass_tunnel"
+				}
+				{
+					id: "7A34FC1E164DAD6A"
+					type: "item"
+					item: "create:smart_chute"
+				}
+			]
+		}
+		{
+			title: "Electricity"
+			x: 18.5d
+			y: 0.0d
+			description: ["ZAPP!"]
+			dependencies: ["6E1A2EBB60450462"]
+			id: "7335C2CE4FDB4933"
+			tasks: [
+				{
+					id: "061C2A768D038B07"
+					type: "item"
+					item: "createaddition:alternator"
+				}
+				{
+					id: "4A459F170D1A22AB"
+					type: "item"
+					item: "createaddition:electric_motor"
+				}
+				{
+					id: "1C23BC68A5E78B68"
+					type: "item"
+					item: "createaddition:rolling_mill"
+				}
+				{
+					id: "6A1AA5C1F58E5FE1"
+					type: "item"
+					item: "createaddition:copper_spool"
+				}
+				{
+					id: "159D98FBCDAD1A27"
+					type: "item"
+					item: "createaddition:modular_accumulator"
+				}
+			]
+		}
+		{
+			title: "Trains!"
+			x: 23.0d
+			y: -3.5d
+			dependencies: [
+				"6E1A2EBB60450462"
+				"049436F4E1067322"
+			]
+			id: "2A806558EF629ACD"
+			tasks: [
+				{
+					id: "14421D8CF5FC8314"
+					type: "item"
+					item: "create:railway_casing"
+				}
+				{
+					id: "1B405447506BA160"
+					type: "item"
+					item: "create:track"
+				}
+				{
+					id: "42EB7B0C5572CB70"
+					type: "item"
+					item: "create:track_station"
+				}
+				{
+					id: "6AA8796683FB0E05"
+					type: "item"
+					item: "create:controls"
+				}
+			]
+		}
+		{
+			x: 2.0d
+			y: 3.5d
+			description: ["Big power!"]
+			dependencies: [
+				"1BF0A7747E6DAF43"
+				"1EBD9631C8C6354A"
+				"147237D322BF2698"
+				"11C190813F28BD2F"
+			]
+			id: "25FBE317570EACE6"
+			tasks: [{
+				id: "585483F87F2BF4DC"
+				type: "item"
+				item: "create:steam_engine"
+			}]
+		}
+		{
+			title: "More train stuff"
+			x: 25.0d
+			y: -5.5d
+			dependencies: ["2A806558EF629ACD"]
+			id: "6E5F125D55B18DD6"
+			tasks: [
+				{
+					id: "2C2F4A376C448277"
+					type: "item"
+					item: "railways:track_monorail"
+				}
+				{
+					id: "3080B7C0A5A8863D"
+					type: "item"
+					item: "create:track_observer"
+				}
+				{
+					id: "264558C7BFC5E927"
+					type: "item"
+					item: "create:schedule"
+				}
+				{
+					id: "5DA4939311DE9BCF"
+					type: "item"
+					item: "railways:track_coupler"
+				}
+				{
+					id: "6AE89853A59531F4"
+					type: "item"
+					item: "create:track_signal"
+				}
+				{
+					id: "6FB483BDB3E061D2"
+					type: "item"
+					item: "create:train_door"
+				}
+			]
+		}
+		{
+			x: 21.5d
+			y: 1.5d
+			description: ["Big Guys!"]
+			dependencies: ["26A29EE3D1FEF0CE"]
+			id: "049436F4E1067322"
+			tasks: [{
+				id: "3DA72AA21285144C"
+				type: "item"
+				item: "create:crushing_wheel"
+			}]
+		}
+		{
+			x: 5.0d
+			y: 3.5d
+			description: ["Blaze Burners can use liquid fuels with this!"]
+			dependencies: [
+				"25FBE317570EACE6"
+				"7616DA3A756726C5"
+			]
+			id: "57A2CE591A0DEC1B"
+			tasks: [{
+				id: "22B128940C0FDBBE"
+				type: "item"
+				item: "createaddition:straw"
+			}]
+		}
+		{
+			x: 4.5d
+			y: 1.5d
+			dependencies: ["1BF0A7747E6DAF43"]
+			id: "7616DA3A756726C5"
+			tasks: [
+				{
+					id: "065167A2E1D6E017"
+					type: "item"
+					item: "createaddition:bioethanol_bucket"
+				}
+				{
+					id: "3BCC5C8FFA4012F7"
+					type: "item"
+					item: "createaddition:seed_oil_bucket"
+				}
+			]
+		}
+		{
+			x: 21.5d
+			y: -1.0d
+			description: ["More fwomp!"]
+			dependencies: [
+				"26A29EE3D1FEF0CE"
+				"722EC0A7E38B8F91"
+				"6D2DDDC000C08E87"
+			]
+			id: "1A347D449F816C74"
+			tasks: [{
+				id: "6F2F8583294201D5"
+				type: "item"
+				item: {
+					id: "createindustry:quad_potato_cannon"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 29.0d
+			y: 1.0d
+			description: ["Fwoomp!"]
+			dependencies: [
+				"26A29EE3D1FEF0CE"
+				"722EC0A7E38B8F91"
+			]
+			id: "50CD8E0F20B90591"
+			tasks: [{
+				id: "43F8E2F6AD432431"
+				type: "item"
+				item: {
+					id: "create:potato_cannon"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			title: "Guns"
+			x: 22.0d
+			y: -7.0d
+			description: ["Gun go pew!"]
+			dependencies: ["26A29EE3D1FEF0CE"]
+			id: "5B4A510824CF0E30"
+			tasks: [
+				{
+					id: "21DBF4E8EF087AB7"
+					type: "item"
+					item: "createarmory:pipe_pistol"
+				}
+				{
+					id: "0AA90B4EF0CCAC12"
+					type: "item"
+					item: "createarmory:nine_mm"
+				}
+			]
+		}
+	]
+	quest_links: [ ]
+}
