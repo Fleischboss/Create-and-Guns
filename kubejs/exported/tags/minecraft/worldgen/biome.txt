@@ -1,0 +1,2805 @@
+To refresh this file, delete it and run /reload command again! Last updated: Mar 4, 2023, 10:45:14 AM
+
+#minecraft:has_structure/nether_fortress
+- #minecraft:is_nether (from Default)
+
+#forge:is_slope
+- terralith:alpine_grove (from Terralith_v2.3.6.jar)
+- terralith:amethyst_canyon (from Terralith_v2.3.6.jar)
+- terralith:ashen_savanna (from Terralith_v2.3.6.jar)
+- terralith:blooming_valley (from Terralith_v2.3.6.jar)
+- terralith:caldera (from Terralith_v2.3.6.jar)
+- terralith:glacial_chasm (from Terralith_v2.3.6.jar)
+- terralith:jungle_mountains (from Terralith_v2.3.6.jar)
+- terralith:lavender_valley (from Terralith_v2.3.6.jar)
+- terralith:moonlight_valley (from Terralith_v2.3.6.jar)
+- terralith:rocky_jungle (from Terralith_v2.3.6.jar)
+- terralith:rocky_mountains (from Terralith_v2.3.6.jar)
+- terralith:sakura_valley (from Terralith_v2.3.6.jar)
+- terralith:sandstone_valley (from Terralith_v2.3.6.jar)
+- terralith:savanna_slopes (from Terralith_v2.3.6.jar)
+- terralith:siberian_grove (from Terralith_v2.3.6.jar)
+- terralith:stony_spires (from Terralith_v2.3.6.jar)
+- minecraft:savanna_plateau (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:wooded_badlands (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:meadow (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:grove (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:snowy_slopes (from forge-1.19.2-43.2.3-universal.jar)
+
+#alexsmobs:skreechers_can_spawn_wardens
+- minecraft:deep_dark (from alexsmobs-1.21.1.jar)
+
+#supplementaries:has_cave_urns
+- #minecraft:is_overworld (from Supplementaries Generated Pack)
+
+#idas:collections/idasvanilla_jungles
+- minecraft:jungle (from idas_forge-1.6.0+1.19.2.jar)
+- terralith:rocky_jungle? (from idas_forge-1.6.0+1.19.2.jar)
+- terralith:tropical_jungle? (from idas_forge-1.6.0+1.19.2.jar)
+
+#idas:collections/idassavannas
+- minecraft:savanna (from idas_forge-1.6.0+1.19.2.jar)
+- minecraft:savanna_plateau (from idas_forge-1.6.0+1.19.2.jar)
+- minecraft:windswept_savanna (from idas_forge-1.6.0+1.19.2.jar)
+- terralith:arid_highlands? (from idas_forge-1.6.0+1.19.2.jar)
+- terralith:hot_shrubland? (from idas_forge-1.6.0+1.19.2.jar)
+- terralith:sakura_grove? (from idas_forge-1.6.0+1.19.2.jar)
+- terralith:sakura_valley? (from idas_forge-1.6.0+1.19.2.jar)
+- forge:savanna? (from idas_forge-1.6.0+1.19.2.jar)
+- c:savanna? (from idas_forge-1.6.0+1.19.2.jar)
+
+#dungeons_arise:has_structure/monastery_biomes
+- #minecraft:is_taiga (from DungeonsArise-1.19.2-2.1.54-release.jar)
+- #minecraft:is_hill (from DungeonsArise-1.19.2-2.1.54-release.jar)
+- #minecraft:is_mountain (from DungeonsArise-1.19.2-2.1.54-release.jar)
+
+#minecraft:has_structure/mineshaft
+- #minecraft:is_ocean (from Default)
+- #minecraft:is_river (from Default)
+- #minecraft:is_beach (from Default)
+- #minecraft:is_mountain (from Default)
+- #minecraft:is_hill (from Default)
+- #minecraft:is_taiga (from Default)
+- #minecraft:is_jungle (from Default)
+- #minecraft:is_forest (from Default)
+- minecraft:stony_shore (from Default)
+- minecraft:mushroom_fields (from Default)
+- minecraft:ice_spikes (from Default)
+- minecraft:windswept_savanna (from Default)
+- minecraft:desert (from Default)
+- minecraft:savanna (from Default)
+- minecraft:snowy_plains (from Default)
+- minecraft:plains (from Default)
+- minecraft:sunflower_plains (from Default)
+- minecraft:swamp (from Default)
+- minecraft:mangrove_swamp (from Default)
+- minecraft:savanna_plateau (from Default)
+- minecraft:dripstone_caves (from Default)
+- minecraft:lush_caves (from Default)
+- #minecraft:is_ocean (from Terralith_v2.3.6.jar)
+- #minecraft:is_river (from Terralith_v2.3.6.jar)
+- #minecraft:is_beach (from Terralith_v2.3.6.jar)
+- #minecraft:is_mountain (from Terralith_v2.3.6.jar)
+- #minecraft:is_hill (from Terralith_v2.3.6.jar)
+- #minecraft:is_taiga (from Terralith_v2.3.6.jar)
+- #minecraft:is_jungle (from Terralith_v2.3.6.jar)
+- #minecraft:is_forest (from Terralith_v2.3.6.jar)
+- minecraft:stony_shore (from Terralith_v2.3.6.jar)
+- minecraft:mushroom_fields (from Terralith_v2.3.6.jar)
+- minecraft:ice_spikes (from Terralith_v2.3.6.jar)
+- minecraft:windswept_savanna (from Terralith_v2.3.6.jar)
+- minecraft:desert (from Terralith_v2.3.6.jar)
+- minecraft:savanna (from Terralith_v2.3.6.jar)
+- minecraft:snowy_plains (from Terralith_v2.3.6.jar)
+- minecraft:plains (from Terralith_v2.3.6.jar)
+- minecraft:sunflower_plains (from Terralith_v2.3.6.jar)
+- minecraft:swamp (from Terralith_v2.3.6.jar)
+- minecraft:savanna_plateau (from Terralith_v2.3.6.jar)
+- minecraft:dripstone_caves (from Terralith_v2.3.6.jar)
+- minecraft:lush_caves (from Terralith_v2.3.6.jar)
+- #terralith:all_terralith_biomes (from Terralith_v2.3.6.jar)
+
+#minecolonies:has_structure/medieval_birch_colony
+- minecraft:plains (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- #forge:is_plains (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:sunflower_plains (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:snowy_plains (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:forest (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- #minecraft:is_forest (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:flower_forest (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:birch_forest (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:old_growth_birch_forest (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:windswept_hills (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:windswept_gravelly_hills (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:windswept_forest (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:meadow (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:snowy_slopes (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:frozen_peaks (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:jagged_peaks (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:stony_peaks (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- #forge:is_peak (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:river (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:frozen_river (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:beach (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- #minecraft:is_beach (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:snowy_beach (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:stony_shore (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:mushroom_fields (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+
+#dungeons_arise:has_structure/abandoned_temple_biomes
+- #minecraft:is_taiga (from DungeonsArise-1.19.2-2.1.54-release.jar)
+- #minecraft:is_hill (from DungeonsArise-1.19.2-2.1.54-release.jar)
+- #minecraft:is_mountain (from DungeonsArise-1.19.2-2.1.54-release.jar)
+
+#minecraft:has_structure/jungle_temple
+- minecraft:bamboo_jungle (from Default)
+- minecraft:jungle (from Default)
+- minecraft:bamboo_jungle (from Terralith_v2.3.6.jar)
+- minecraft:jungle (from Terralith_v2.3.6.jar)
+- terralith:tropical_jungle (from Terralith_v2.3.6.jar)
+- terralith:rocky_jungle (from Terralith_v2.3.6.jar)
+
+#c:mushroom
+- terralith:mirage_isles (from Terralith_v2.3.6.jar)
+- terralith:cave/fungal_caves (from Terralith_v2.3.6.jar)
+
+#dungeons_arise:has_structure/giant_mushroom_biomes
+- minecraft:plains (from DungeonsArise-1.19.2-2.1.54-release.jar)
+- minecraft:meadow (from DungeonsArise-1.19.2-2.1.54-release.jar)
+- minecraft:sunflower_plains (from DungeonsArise-1.19.2-2.1.54-release.jar)
+
+#alexsmobs:spawns_red_gusters
+- #minecraft:is_badlands (from alexsmobs-1.21.1.jar)
+
+#idas:collections/idasplains
+- minecraft:plains (from idas_forge-1.6.0+1.19.2.jar)
+- minecraft:sunflower_plains (from idas_forge-1.6.0+1.19.2.jar)
+- terralith:brushland? (from idas_forge-1.6.0+1.19.2.jar)
+- terralith:highlands? (from idas_forge-1.6.0+1.19.2.jar)
+- terralith:steppe? (from idas_forge-1.6.0+1.19.2.jar)
+- forge:plains? (from idas_forge-1.6.0+1.19.2.jar)
+- c:plains? (from idas_forge-1.6.0+1.19.2.jar)
+
+#c:mountain
+- terralith:desert_canyon (from Terralith_v2.3.6.jar)
+- terralith:desert_spires (from Terralith_v2.3.6.jar)
+- terralith:forested_highlands (from Terralith_v2.3.6.jar)
+- terralith:haze_mountain (from Terralith_v2.3.6.jar)
+- terralith:highlands (from Terralith_v2.3.6.jar)
+- terralith:mountain_steppe (from Terralith_v2.3.6.jar)
+- terralith:painted_mountains (from Terralith_v2.3.6.jar)
+- terralith:scarlet_mountains (from Terralith_v2.3.6.jar)
+- terralith:temperate_highlands (from Terralith_v2.3.6.jar)
+
+#immersiveengineering:has_mineral_veins
+- #minecraft:is_overworld (from ImmersiveEngineering-1.19.2-9.2.0-162.jar)
+- #minecraft:is_nether (from ImmersiveEngineering-1.19.2-9.2.0-162.jar)
+- #minecraft:is_end (from ImmersiveEngineering-1.19.2-9.2.0-162.jar)
+
+#minecraft:is_jungle
+- minecraft:bamboo_jungle (from Default)
+- minecraft:jungle (from Default)
+- minecraft:sparse_jungle (from Default)
+- minecraft:bamboo_jungle (from Terralith_v2.3.6.jar)
+- minecraft:jungle (from Terralith_v2.3.6.jar)
+- minecraft:sparse_jungle (from Terralith_v2.3.6.jar)
+- terralith:rocky_jungle (from Terralith_v2.3.6.jar)
+- terralith:jungle_mountains (from Terralith_v2.3.6.jar)
+- terralith:tropical_jungle (from Terralith_v2.3.6.jar)
+- terralith:amethyst_rainforest (from Terralith_v2.3.6.jar)
+- terralith:amethyst_canyon (from Terralith_v2.3.6.jar)
+
+#dungeons_arise:has_structure/shiraz_palace_biomes
+- minecraft:desert (from DungeonsArise-1.19.2-2.1.54-release.jar)
+- #minecraft:has_structure/desert_pyramid (from DungeonsArise-1.19.2-2.1.54-release.jar)
+
+#minecraft:is_ocean
+- #minecraft:is_deep_ocean (from Default)
+- minecraft:frozen_ocean (from Default)
+- minecraft:ocean (from Default)
+- minecraft:cold_ocean (from Default)
+- minecraft:lukewarm_ocean (from Default)
+- minecraft:warm_ocean (from Default)
+- #minecraft:is_deep_ocean (from Terralith_v2.3.6.jar)
+- minecraft:frozen_ocean (from Terralith_v2.3.6.jar)
+- minecraft:ocean (from Terralith_v2.3.6.jar)
+- minecraft:cold_ocean (from Terralith_v2.3.6.jar)
+- minecraft:lukewarm_ocean (from Terralith_v2.3.6.jar)
+- minecraft:warm_ocean (from Terralith_v2.3.6.jar)
+
+#idas:has_structure/hauntedhouse_biomes
+- #idas:collections/idasregular_forests (from idas_forge-1.6.0+1.19.2.jar)
+- #idas:collections/idasany_forests (from idas_forge-1.6.0+1.19.2.jar)
+- #idas:collections/idasspooky_forests (from idas_forge-1.6.0+1.19.2.jar)
+
+#ae2:has_meteorites
+- #minecraft:is_overworld? (from appliedenergistics2-forge-12.9.2.jar)
+
+#idas:collections/idasnether
+- #minecraft:is_nether (from idas_forge-1.6.0+1.19.2.jar)
+- forge:nether? (from idas_forge-1.6.0+1.19.2.jar)
+- c:nether? (from idas_forge-1.6.0+1.19.2.jar)
+- c:in_nether? (from idas_forge-1.6.0+1.19.2.jar)
+
+#idas:collections/idasbirch_forests
+- minecraft:birch_forest (from idas_forge-1.6.0+1.19.2.jar)
+- minecraft:old_growth_birch_forest (from idas_forge-1.6.0+1.19.2.jar)
+- terralith:birch_taiga? (from idas_forge-1.6.0+1.19.2.jar)
+- terralith:blooming_valley? (from idas_forge-1.6.0+1.19.2.jar)
+- terralith:temperate_highlands? (from idas_forge-1.6.0+1.19.2.jar)
+- byg:aspen_forest? (from idas_forge-1.6.0+1.19.2.jar)
+- byg:temperate_grove? (from idas_forge-1.6.0+1.19.2.jar)
+
+#idas:has_structure/abandonedhouse_biomes
+- #idas:collections/idasregular_forests (from idas_forge-1.6.0+1.19.2.jar)
+- #idas:collections/idasbirch_forests (from idas_forge-1.6.0+1.19.2.jar)
+- #idas:collections/idasplains (from idas_forge-1.6.0+1.19.2.jar)
+- #idas:collections/idasmeadows (from idas_forge-1.6.0+1.19.2.jar)
+
+#forge:is_cold
+- #forge:is_cold/overworld (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:is_cold/nether? (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:is_cold/end (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:is_sparse/overworld
+- terralith:alpine_grove (from Terralith_v2.3.6.jar)
+- terralith:arid_highlands (from Terralith_v2.3.6.jar)
+- terralith:brushland (from Terralith_v2.3.6.jar)
+- terralith:cold_shrubland (from Terralith_v2.3.6.jar)
+- terralith:highlands (from Terralith_v2.3.6.jar)
+- terralith:hot_shrubland (from Terralith_v2.3.6.jar)
+- terralith:rocky_shrubland (from Terralith_v2.3.6.jar)
+- terralith:savanna_badlands (from Terralith_v2.3.6.jar)
+- terralith:shield_clearing (from Terralith_v2.3.6.jar)
+- terralith:steppe (from Terralith_v2.3.6.jar)
+- terralith:valley_clearing (from Terralith_v2.3.6.jar)
+- terralith:windswept_spires (from Terralith_v2.3.6.jar)
+- terralith:yosemite_cliffs (from Terralith_v2.3.6.jar)
+- minecraft:windswept_forest (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:savanna (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:savanna_plateau (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:wooded_badlands (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:snowy_slopes (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:jagged_peaks (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:frozen_peaks (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:windswept_gravelly_hills (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:windswept_savanna (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:eroded_badlands (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:dripstone_caves (from forge-1.19.2-43.2.3-universal.jar)
+
+#idas:collections/idasnether_warped_forests
+- minecraft:warped_forest (from idas_forge-1.6.0+1.19.2.jar)
+
+#forge:is_overworld
+- quark:glimmering_weald (from Quark-3.4-393.jar)
+
+#terralith:has_structure/fortified_desert_village
+- minecraft:desert (from Terralith_v2.3.6.jar)
+- terralith:desert_oasis (from Terralith_v2.3.6.jar)
+- terralith:lush_desert (from Terralith_v2.3.6.jar)
+
+#minecraft:has_structure/ocean_ruin_cold
+- minecraft:frozen_ocean (from Default)
+- minecraft:cold_ocean (from Default)
+- minecraft:ocean (from Default)
+- minecraft:deep_frozen_ocean (from Default)
+- minecraft:deep_cold_ocean (from Default)
+- minecraft:deep_ocean (from Default)
+
+#idas:collections/idasvanilla_deserts
+- minecraft:desert (from idas_forge-1.6.0+1.19.2.jar)
+- terralith:ancient_sands? (from idas_forge-1.6.0+1.19.2.jar)
+- terralith:desert_oasis? (from idas_forge-1.6.0+1.19.2.jar)
+- terralith:desert_spires? (from idas_forge-1.6.0+1.19.2.jar)
+- terralith:lush_desert? (from idas_forge-1.6.0+1.19.2.jar)
+- terralith:sandstone_valley? (from idas_forge-1.6.0+1.19.2.jar)
+
+#minecraft:produces_corals_from_bonemeal
+- minecraft:warm_ocean (from Default)
+
+#forge:is_desert
+- terralith:desert_canyon (from Terralith_v2.3.6.jar)
+- terralith:desert_oasis (from Terralith_v2.3.6.jar)
+- terralith:desert_spires (from Terralith_v2.3.6.jar)
+- terralith:lush_desert (from Terralith_v2.3.6.jar)
+- terralith:sandstone_valley (from Terralith_v2.3.6.jar)
+- minecraft:desert (from forge-1.19.2-43.2.3-universal.jar)
+
+#minecraft:has_structure/stronghold
+- #minecraft:is_overworld (from Default)
+- minecraft:the_void (from Terralith_v2.3.6.jar)
+- minecraft:plains (from Terralith_v2.3.6.jar)
+- minecraft:sunflower_plains (from Terralith_v2.3.6.jar)
+- minecraft:snowy_plains (from Terralith_v2.3.6.jar)
+- minecraft:ice_spikes (from Terralith_v2.3.6.jar)
+- minecraft:desert (from Terralith_v2.3.6.jar)
+- minecraft:forest (from Terralith_v2.3.6.jar)
+- minecraft:flower_forest (from Terralith_v2.3.6.jar)
+- minecraft:birch_forest (from Terralith_v2.3.6.jar)
+- minecraft:dark_forest (from Terralith_v2.3.6.jar)
+- minecraft:old_growth_birch_forest (from Terralith_v2.3.6.jar)
+- minecraft:old_growth_pine_taiga (from Terralith_v2.3.6.jar)
+- minecraft:old_growth_spruce_taiga (from Terralith_v2.3.6.jar)
+- minecraft:taiga (from Terralith_v2.3.6.jar)
+- minecraft:snowy_taiga (from Terralith_v2.3.6.jar)
+- minecraft:savanna (from Terralith_v2.3.6.jar)
+- minecraft:savanna_plateau (from Terralith_v2.3.6.jar)
+- minecraft:windswept_hills (from Terralith_v2.3.6.jar)
+- minecraft:windswept_gravelly_hills (from Terralith_v2.3.6.jar)
+- minecraft:windswept_forest (from Terralith_v2.3.6.jar)
+- minecraft:windswept_savanna (from Terralith_v2.3.6.jar)
+- minecraft:jungle (from Terralith_v2.3.6.jar)
+- minecraft:sparse_jungle (from Terralith_v2.3.6.jar)
+- minecraft:bamboo_jungle (from Terralith_v2.3.6.jar)
+- minecraft:badlands (from Terralith_v2.3.6.jar)
+- minecraft:eroded_badlands (from Terralith_v2.3.6.jar)
+- minecraft:wooded_badlands (from Terralith_v2.3.6.jar)
+- minecraft:meadow (from Terralith_v2.3.6.jar)
+- minecraft:grove (from Terralith_v2.3.6.jar)
+- minecraft:snowy_slopes (from Terralith_v2.3.6.jar)
+- minecraft:frozen_peaks (from Terralith_v2.3.6.jar)
+- minecraft:jagged_peaks (from Terralith_v2.3.6.jar)
+- minecraft:stony_peaks (from Terralith_v2.3.6.jar)
+- minecraft:mushroom_fields (from Terralith_v2.3.6.jar)
+- minecraft:dripstone_caves (from Terralith_v2.3.6.jar)
+- minecraft:lush_caves (from Terralith_v2.3.6.jar)
+- #terralith:all_terralith_biomes (from Terralith_v2.3.6.jar)
+
+#idas:has_structure/farmhouse_biomes
+- #idas:collections/idasplains (from idas_forge-1.6.0+1.19.2.jar)
+- #idas:collections/idastaigas (from idas_forge-1.6.0+1.19.2.jar)
+
+#minecraft:has_structure/mineshaft_mesa
+- #minecraft:is_badlands (from Default)
+- #minecraft:is_badlands (from Terralith_v2.3.6.jar)
+
+#minecraft:has_structure/ancient_city
+- minecraft:deep_dark (from Default)
+- minecraft:deep_dark (from Terralith_v2.3.6.jar)
+
+#forge:is_peak
+- terralith:emerald_peaks (from Terralith_v2.3.6.jar)
+- terralith:fractured_savanna (from Terralith_v2.3.6.jar)
+- terralith:frozen_cliffs (from Terralith_v2.3.6.jar)
+- terralith:mirage_isles (from Terralith_v2.3.6.jar)
+- terralith:volcanic_crater (from Terralith_v2.3.6.jar)
+- terralith:volcanic_peaks (from Terralith_v2.3.6.jar)
+- terralith:warped_mesa (from Terralith_v2.3.6.jar)
+- minecraft:jagged_peaks (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:frozen_peaks (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:stony_peaks (from forge-1.19.2-43.2.3-universal.jar)
+
+#minecraft:has_structure/shipwreck
+- #minecraft:is_ocean (from Default)
+- #minecraft:is_ocean (from Terralith_v2.3.6.jar)
+
+#c:snowy_plains
+- terralith:gravel_desert (from Terralith_v2.3.6.jar)
+- terralith:rocky_shrubland (from Terralith_v2.3.6.jar)
+
+#forge:is_wet/overworld
+- terralith:amethyst_canyon (from Terralith_v2.3.6.jar)
+- terralith:amethyst_rainforest (from Terralith_v2.3.6.jar)
+- terralith:blooming_valley (from Terralith_v2.3.6.jar)
+- terralith:caldera (from Terralith_v2.3.6.jar)
+- terralith:desert_oasis (from Terralith_v2.3.6.jar)
+- terralith:fractured_savanna (from Terralith_v2.3.6.jar)
+- terralith:granite_cliffs (from Terralith_v2.3.6.jar)
+- terralith:gravel_beach (from Terralith_v2.3.6.jar)
+- terralith:ice_marsh (from Terralith_v2.3.6.jar)
+- terralith:jungle_mountains (from Terralith_v2.3.6.jar)
+- terralith:mirage_isles (from Terralith_v2.3.6.jar)
+- terralith:orchid_swamp (from Terralith_v2.3.6.jar)
+- terralith:red_oasis (from Terralith_v2.3.6.jar)
+- terralith:rocky_jungle (from Terralith_v2.3.6.jar)
+- terralith:tropical_jungle (from Terralith_v2.3.6.jar)
+- terralith:white_cliffs (from Terralith_v2.3.6.jar)
+- terralith:yellowstone (from Terralith_v2.3.6.jar)
+- terralith:cave/thermal_caves (from Terralith_v2.3.6.jar)
+- terralith:cave/underground_jungle (from Terralith_v2.3.6.jar)
+- minecraft:swamp (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:jungle (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:sparse_jungle (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:beach (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:bamboo_jungle (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:lush_caves (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:mangrove_swamp (from forge-1.19.2-43.2.3-universal.jar)
+
+#dungeons_arise:has_structure/mushroom_house_biomes
+- #minecraft:is_forest (from DungeonsArise-1.19.2-2.1.54-release.jar)
+
+#c:vegetation_dense
+- terralith:jungle_mountains (from Terralith_v2.3.6.jar)
+- terralith:lush_valley (from Terralith_v2.3.6.jar)
+- terralith:skylands_winter (from Terralith_v2.3.6.jar)
+- terralith:tropical_jungle (from Terralith_v2.3.6.jar)
+- terralith:wintry_forest (from Terralith_v2.3.6.jar)
+- terralith:wintry_lowlands (from Terralith_v2.3.6.jar)
+
+#minecraft:is_hill
+- minecraft:windswept_hills (from Default)
+- minecraft:windswept_forest (from Default)
+- minecraft:windswept_gravelly_hills (from Default)
+- minecraft:windswept_hills (from Terralith_v2.3.6.jar)
+- minecraft:windswept_forest (from Terralith_v2.3.6.jar)
+- minecraft:windswept_gravelly_hills (from Terralith_v2.3.6.jar)
+- terralith:fractured_savanna (from Terralith_v2.3.6.jar)
+- terralith:cloud_forest (from Terralith_v2.3.6.jar)
+- terralith:jungle_mountains (from Terralith_v2.3.6.jar)
+- terralith:haze_mountain (from Terralith_v2.3.6.jar)
+
+#idas:collections/idassnowy_forests
+- minecraft:snowy_taiga (from idas_forge-1.6.0+1.19.2.jar)
+- minecraft:grove (from idas_forge-1.6.0+1.19.2.jar)
+- biomesoplenty:snowy_maple_woods? (from idas_forge-1.6.0+1.19.2.jar)
+- biomesoplenty:snowy_coniferous_forest? (from idas_forge-1.6.0+1.19.2.jar)
+- biomesoplenty:muskeg? (from idas_forge-1.6.0+1.19.2.jar)
+- biomesoplenty:rainbow_hills? (from idas_forge-1.6.0+1.19.2.jar)
+- byg:frosted_taiga? (from idas_forge-1.6.0+1.19.2.jar)
+- byg:frosted_coniferous_forest? (from idas_forge-1.6.0+1.19.2.jar)
+
+#alexsmobs:spawns_desert_crocodiles
+- #forge:is_sandy (from alexsmobs-1.21.1.jar)
+
+#forge:is_wet
+- #forge:is_wet/overworld (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:is_wet/nether? (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:is_wet/end? (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:is_cold/end
+- minecraft:the_end (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:small_end_islands (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:end_midlands (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:end_highlands (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:end_barrens (from forge-1.19.2-43.2.3-universal.jar)
+
+#c:forest
+- terralith:alpha_islands (from Terralith_v2.3.6.jar)
+- terralith:birch_taiga (from Terralith_v2.3.6.jar)
+- terralith:lavender_forest (from Terralith_v2.3.6.jar)
+- terralith:lavender_valley (from Terralith_v2.3.6.jar)
+- terralith:mirage_isles (from Terralith_v2.3.6.jar)
+- terralith:moonlight_grove (from Terralith_v2.3.6.jar)
+- terralith:sakura_grove (from Terralith_v2.3.6.jar)
+- terralith:sakura_valley (from Terralith_v2.3.6.jar)
+- terralith:skylands (from Terralith_v2.3.6.jar)
+- terralith:skylands_autumn (from Terralith_v2.3.6.jar)
+- terralith:skylands_spring (from Terralith_v2.3.6.jar)
+- terralith:temperate_highlands (from Terralith_v2.3.6.jar)
+- terralith:white_cliffs (from Terralith_v2.3.6.jar)
+- terralith:yosemite_lowlands (from Terralith_v2.3.6.jar)
+
+#idas:has_structure/sunken_ship_biomes
+- #idas:collections/idasdeep_oceans (from idas_forge-1.6.0+1.19.2.jar)
+
+#c:dead
+- terralith:ashen_savanna (from Terralith_v2.3.6.jar)
+- terralith:gravel_desert (from Terralith_v2.3.6.jar)
+
+#idas:has_structure/tinkers_workshop_biomes
+- #idas:collections/idasregular_forests (from idas_forge-1.6.0+1.19.2.jar)
+- #idas:collections/idasbirch_forests (from idas_forge-1.6.0+1.19.2.jar)
+- #idas:collections/idasplains (from idas_forge-1.6.0+1.19.2.jar)
+- #idas:collections/idasmeadows (from idas_forge-1.6.0+1.19.2.jar)
+
+#idas:has_structure/oak_biomes
+- #idas:collections/idasmeadows (from idas_forge-1.6.0+1.19.2.jar)
+- #idas:collections/idasregular_forests (from idas_forge-1.6.0+1.19.2.jar)
+
+#c:swamp
+- terralith:ice_marsh (from Terralith_v2.3.6.jar)
+- terralith:orchid_swamp (from Terralith_v2.3.6.jar)
+
+#forge:is_mountain
+- terralith:desert_canyon (from Terralith_v2.3.6.jar)
+- terralith:desert_spires (from Terralith_v2.3.6.jar)
+- terralith:forested_highlands (from Terralith_v2.3.6.jar)
+- terralith:haze_mountain (from Terralith_v2.3.6.jar)
+- terralith:mountain_steppe (from Terralith_v2.3.6.jar)
+- terralith:painted_mountains (from Terralith_v2.3.6.jar)
+- terralith:scarlet_mountains (from Terralith_v2.3.6.jar)
+- terralith:temperate_highlands (from Terralith_v2.3.6.jar)
+- #forge:is_peak (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:is_slope (from forge-1.19.2-43.2.3-universal.jar)
+
+#c:tree_jungle
+- terralith:amethyst_rainforest (from Terralith_v2.3.6.jar)
+- terralith:jungle_mountains (from Terralith_v2.3.6.jar)
+- terralith:rocky_jungle (from Terralith_v2.3.6.jar)
+- terralith:skylands_summer (from Terralith_v2.3.6.jar)
+
+#dungeons_arise:has_structure/lighthouse_biomes
+- #minecraft:is_beach (from DungeonsArise-1.19.2-2.1.54-release.jar)
+- minecraft:plains (from DungeonsArise-1.19.2-2.1.54-release.jar)
+
+#dungeons_arise:has_structure/bandit_towers_biomes
+- #minecraft:is_badlands (from DungeonsArise-1.19.2-2.1.54-release.jar)
+
+#dungeons_arise:has_structure/small_prairie_house_biomes
+- minecraft:plains (from DungeonsArise-1.19.2-2.1.54-release.jar)
+- minecraft:meadow (from DungeonsArise-1.19.2-2.1.54-release.jar)
+- minecraft:sunflower_plains (from DungeonsArise-1.19.2-2.1.54-release.jar)
+
+#idas:has_structure/black_desert_biomes
+- #idas:collections/idasblack_deserts (from idas_forge-1.6.0+1.19.2.jar)
+
+#minecraft:has_structure/ruined_portal_ocean
+- #minecraft:is_ocean (from Default)
+- #minecraft:is_ocean (from Terralith_v2.3.6.jar)
+
+#idas:collections/idasbadlands
+- #minecraft:is_badlands (from idas_forge-1.6.0+1.19.2.jar)
+- terralith:savanna_badlands? (from idas_forge-1.6.0+1.19.2.jar)
+- forge:mesa? (from idas_forge-1.6.0+1.19.2.jar)
+- c:mesa? (from idas_forge-1.6.0+1.19.2.jar)
+- forge:badlands? (from idas_forge-1.6.0+1.19.2.jar)
+- c:badlands? (from idas_forge-1.6.0+1.19.2.jar)
+
+#forge:is_rare
+- terralith:alpha_islands (from Terralith_v2.3.6.jar)
+- terralith:alpha_islands_winter (from Terralith_v2.3.6.jar)
+- terralith:mirage_isles (from Terralith_v2.3.6.jar)
+- terralith:painted_mountains (from Terralith_v2.3.6.jar)
+- terralith:skylands (from Terralith_v2.3.6.jar)
+- terralith:skylands_autumn (from Terralith_v2.3.6.jar)
+- terralith:skylands_spring (from Terralith_v2.3.6.jar)
+- terralith:skylands_summer (from Terralith_v2.3.6.jar)
+- terralith:skylands_winter (from Terralith_v2.3.6.jar)
+- terralith:volcanic_crater (from Terralith_v2.3.6.jar)
+- terralith:volcanic_peaks (from Terralith_v2.3.6.jar)
+- terralith:warped_mesa (from Terralith_v2.3.6.jar)
+- terralith:windswept_spires (from Terralith_v2.3.6.jar)
+- terralith:yellowstone (from Terralith_v2.3.6.jar)
+- minecraft:mushroom_fields (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:sparse_jungle (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:savanna_plateau (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:sunflower_plains (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:windswept_gravelly_hills (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:flower_forest (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:ice_spikes (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:old_growth_birch_forest (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:old_growth_spruce_taiga (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:windswept_savanna (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:eroded_badlands (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:bamboo_jungle (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:deep_dark (from forge-1.19.2-43.2.3-universal.jar)
+- quark:glimmering_weald (from Quark-3.4-393.jar)
+
+#c:river
+- terralith:warm_river (from Terralith_v2.3.6.jar)
+
+#minecraft:is_deep_ocean
+- minecraft:deep_frozen_ocean (from Default)
+- minecraft:deep_cold_ocean (from Default)
+- minecraft:deep_ocean (from Default)
+- minecraft:deep_lukewarm_ocean (from Default)
+- minecraft:deep_frozen_ocean (from Terralith_v2.3.6.jar)
+- minecraft:deep_cold_ocean (from Terralith_v2.3.6.jar)
+- minecraft:deep_ocean (from Terralith_v2.3.6.jar)
+- minecraft:deep_lukewarm_ocean (from Terralith_v2.3.6.jar)
+
+#idas:has_structure/nether_biomes
+- #idas:collections/idasnether (from idas_forge-1.6.0+1.19.2.jar)
+
+#idas:has_structure/hermits_hollow_biomes
+- #idas:collections/idasregular_forests (from idas_forge-1.6.0+1.19.2.jar)
+- #idas:collections/idasplains (from idas_forge-1.6.0+1.19.2.jar)
+- #idas:collections/idasbirch_forests (from idas_forge-1.6.0+1.19.2.jar)
+- #idas:collections/idasmeadows (from idas_forge-1.6.0+1.19.2.jar)
+- #idas:collections/idashills (from idas_forge-1.6.0+1.19.2.jar)
+
+#minecraft:is_nether
+- minecraft:nether_wastes (from Default)
+- minecraft:soul_sand_valley (from Default)
+- minecraft:crimson_forest (from Default)
+- minecraft:warped_forest (from Default)
+- minecraft:basalt_deltas (from Default)
+- minecraft:nether_wastes (from Terralith_v2.3.6.jar)
+- minecraft:basalt_deltas (from Terralith_v2.3.6.jar)
+- minecraft:soul_sand_valley (from Terralith_v2.3.6.jar)
+- minecraft:crimson_forest (from Terralith_v2.3.6.jar)
+- minecraft:warped_forest (from Terralith_v2.3.6.jar)
+
+#idas:has_structure/desert_biomes
+- minecraft:desert (from idas_forge-1.6.0+1.19.2.jar)
+- #idas:collections/idasdeserts (from idas_forge-1.6.0+1.19.2.jar)
+
+#c:climate_hot
+- terralith:amethyst_canyon (from Terralith_v2.3.6.jar)
+- terralith:amethyst_rainforest (from Terralith_v2.3.6.jar)
+- terralith:ancient_sands (from Terralith_v2.3.6.jar)
+- terralith:arid_highlands (from Terralith_v2.3.6.jar)
+- terralith:ashen_savanna (from Terralith_v2.3.6.jar)
+- terralith:basalt_cliffs (from Terralith_v2.3.6.jar)
+- terralith:brushland (from Terralith_v2.3.6.jar)
+- terralith:bryce_canyon (from Terralith_v2.3.6.jar)
+- terralith:desert_canyon (from Terralith_v2.3.6.jar)
+- terralith:desert_oasis (from Terralith_v2.3.6.jar)
+- terralith:desert_spires (from Terralith_v2.3.6.jar)
+- terralith:fractured_savanna (from Terralith_v2.3.6.jar)
+- terralith:granite_cliffs (from Terralith_v2.3.6.jar)
+- terralith:hot_shrubland (from Terralith_v2.3.6.jar)
+- terralith:jungle_mountains (from Terralith_v2.3.6.jar)
+- terralith:lush_desert (from Terralith_v2.3.6.jar)
+- terralith:orchid_swamp (from Terralith_v2.3.6.jar)
+- terralith:painted_mountains (from Terralith_v2.3.6.jar)
+- terralith:red_oasis (from Terralith_v2.3.6.jar)
+- terralith:rocky_jungle (from Terralith_v2.3.6.jar)
+- terralith:sandstone_valley (from Terralith_v2.3.6.jar)
+- terralith:savanna_badlands (from Terralith_v2.3.6.jar)
+- terralith:savanna_slopes (from Terralith_v2.3.6.jar)
+- terralith:shrubland (from Terralith_v2.3.6.jar)
+- terralith:skylands_summer (from Terralith_v2.3.6.jar)
+- terralith:tropical_jungle (from Terralith_v2.3.6.jar)
+- terralith:volcanic_crater (from Terralith_v2.3.6.jar)
+- terralith:volcanic_peaks (from Terralith_v2.3.6.jar)
+- terralith:warm_river (from Terralith_v2.3.6.jar)
+- terralith:warped_mesa (from Terralith_v2.3.6.jar)
+- terralith:white_mesa (from Terralith_v2.3.6.jar)
+- terralith:cave/desert_caves (from Terralith_v2.3.6.jar)
+- terralith:cave/mantle_caves (from Terralith_v2.3.6.jar)
+- terralith:cave/thermal_caves (from Terralith_v2.3.6.jar)
+- terralith:cave/underground_jungle (from Terralith_v2.3.6.jar)
+
+#dungeons_arise:has_structure/merchant_campsite_biomes
+- minecraft:plains (from DungeonsArise-1.19.2-2.1.54-release.jar)
+- minecraft:meadow (from DungeonsArise-1.19.2-2.1.54-release.jar)
+- minecraft:sunflower_plains (from DungeonsArise-1.19.2-2.1.54-release.jar)
+
+#c:desert
+- terralith:desert_canyon (from Terralith_v2.3.6.jar)
+- terralith:desert_oasis (from Terralith_v2.3.6.jar)
+- terralith:desert_spires (from Terralith_v2.3.6.jar)
+- terralith:lush_desert (from Terralith_v2.3.6.jar)
+- terralith:sandstone_valley (from Terralith_v2.3.6.jar)
+
+#idas:collections/idasswamps
+- minecraft:swamp (from idas_forge-1.6.0+1.19.2.jar)
+- forge:swamp? (from idas_forge-1.6.0+1.19.2.jar)
+- c:swamp? (from idas_forge-1.6.0+1.19.2.jar)
+
+#forge:is_dry
+- #forge:is_dry/overworld (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:is_dry/nether (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:is_dry/end (from forge-1.19.2-43.2.3-universal.jar)
+
+#idas:collections/idastaigas
+- minecraft:taiga (from idas_forge-1.6.0+1.19.2.jar)
+- terralith:alpine_highlands? (from idas_forge-1.6.0+1.19.2.jar)
+- terralith:birch_taiga? (from idas_forge-1.6.0+1.19.2.jar)
+- terralith:cloud_forest? (from idas_forge-1.6.0+1.19.2.jar)
+- terralith:forested_highlands? (from idas_forge-1.6.0+1.19.2.jar)
+- terralith:lavender_forest? (from idas_forge-1.6.0+1.19.2.jar)
+- terralith:lavender_valley? (from idas_forge-1.6.0+1.19.2.jar)
+- terralith:lush_valley? (from idas_forge-1.6.0+1.19.2.jar)
+- terralith:moonlight_grove? (from idas_forge-1.6.0+1.19.2.jar)
+- terralith:moonlight_valley? (from idas_forge-1.6.0+1.19.2.jar)
+- terralith:rocky_shrubland? (from idas_forge-1.6.0+1.19.2.jar)
+- terralith:siberian_grove? (from idas_forge-1.6.0+1.19.2.jar)
+- terralith:siberian_taiga? (from idas_forge-1.6.0+1.19.2.jar)
+- terralith:shield? (from idas_forge-1.6.0+1.19.2.jar)
+- terralith:shrubland? (from idas_forge-1.6.0+1.19.2.jar)
+- terralith:temperate_highlands? (from idas_forge-1.6.0+1.19.2.jar)
+- terralith:wintry_forest? (from idas_forge-1.6.0+1.19.2.jar)
+- terralith:yellowstone? (from idas_forge-1.6.0+1.19.2.jar)
+- biomesoplenty:jade_cliffs? (from idas_forge-1.6.0+1.19.2.jar)
+- biomesoplenty:mediterranean_taiga? (from idas_forge-1.6.0+1.19.2.jar)
+- biomesoplenty:dead_forest? (from idas_forge-1.6.0+1.19.2.jar)
+- biomesoplenty:old_growth_dead_forest? (from idas_forge-1.6.0+1.19.2.jar)
+- byg:autumnal_taiga? (from idas_forge-1.6.0+1.19.2.jar)
+- byg:canadian_shield? (from idas_forge-1.6.0+1.19.2.jar)
+- byg:maple_taiga? (from idas_forge-1.6.0+1.19.2.jar)
+- forge:coniferous? (from idas_forge-1.6.0+1.19.2.jar)
+- c:coniferous? (from idas_forge-1.6.0+1.19.2.jar)
+
+#c:shallow_ocean
+
+#idas:has_structure/necromancers_spire_biomes
+- #idas:collections/idasnether (from idas_forge-1.6.0+1.19.2.jar)
+
+#forge:is_cave
+- minecraft:lush_caves (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:dripstone_caves (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:deep_dark (from forge-1.19.2-43.2.3-universal.jar)
+
+#idas:has_structure/fishermans_lodge_biomes
+- #idas:collections/idasrivers (from idas_forge-1.6.0+1.19.2.jar)
+
+#idas:has_structure/jungle_biomes
+- #idas:collections/idasjungles (from idas_forge-1.6.0+1.19.2.jar)
+
+#c:tree_deciduous
+- terralith:alpha_islands (from Terralith_v2.3.6.jar)
+- terralith:alpha_islands_winter (from Terralith_v2.3.6.jar)
+- terralith:alpine_highlands (from Terralith_v2.3.6.jar)
+- terralith:birch_taiga (from Terralith_v2.3.6.jar)
+- terralith:haze_mountain (from Terralith_v2.3.6.jar)
+- terralith:ice_marsh (from Terralith_v2.3.6.jar)
+- terralith:lavender_forest (from Terralith_v2.3.6.jar)
+- terralith:lavender_valley (from Terralith_v2.3.6.jar)
+- terralith:mirage_isles (from Terralith_v2.3.6.jar)
+- terralith:sakura_grove (from Terralith_v2.3.6.jar)
+- terralith:skylands_autumn (from Terralith_v2.3.6.jar)
+- terralith:skylands_spring (from Terralith_v2.3.6.jar)
+- terralith:temperate_highlands (from Terralith_v2.3.6.jar)
+- terralith:white_cliffs (from Terralith_v2.3.6.jar)
+
+#alexsmobs:spawns_white_mantis_shrimp
+- minecraft:mangrove_swamp (from alexsmobs-1.21.1.jar)
+
+#minecraft:more_frequent_drowned_spawns
+- #minecraft:is_river (from Default)
+
+#minecraft:has_structure/village_desert
+- minecraft:desert (from Default)
+- minecraft:desert (from Terralith_v2.3.6.jar)
+- terralith:sandstone_valley (from Terralith_v2.3.6.jar)
+- terralith:desert_oasis (from Terralith_v2.3.6.jar)
+
+#c:tree_savanna
+- terralith:amethyst_canyon (from Terralith_v2.3.6.jar)
+- terralith:amethyst_rainforest (from Terralith_v2.3.6.jar)
+- terralith:arid_highlands (from Terralith_v2.3.6.jar)
+- terralith:brushland (from Terralith_v2.3.6.jar)
+- terralith:hot_shrubland (from Terralith_v2.3.6.jar)
+- terralith:moonlight_grove (from Terralith_v2.3.6.jar)
+- terralith:moonlight_valley (from Terralith_v2.3.6.jar)
+- terralith:savanna_badlands (from Terralith_v2.3.6.jar)
+- terralith:savanna_slopes (from Terralith_v2.3.6.jar)
+
+#minecraft:is_forest
+- minecraft:forest (from Default)
+- minecraft:flower_forest (from Default)
+- minecraft:birch_forest (from Default)
+- minecraft:old_growth_birch_forest (from Default)
+- minecraft:dark_forest (from Default)
+- minecraft:grove (from Default)
+- minecraft:forest (from Terralith_v2.3.6.jar)
+- minecraft:flower_forest (from Terralith_v2.3.6.jar)
+- minecraft:birch_forest (from Terralith_v2.3.6.jar)
+- minecraft:old_growth_birch_forest (from Terralith_v2.3.6.jar)
+- minecraft:dark_forest (from Terralith_v2.3.6.jar)
+- minecraft:grove (from Terralith_v2.3.6.jar)
+- terralith:alpine_grove (from Terralith_v2.3.6.jar)
+- terralith:cloud_forest (from Terralith_v2.3.6.jar)
+
+#ad_astra:has_structure/lunarian_village_biomes
+- ad_astra:lunar_wastelands (from ad_astra-forge-1.19.2-1.12.3.jar)
+
+#idas:collections/idasmeadows
+- minecraft:meadow (from idas_forge-1.6.0+1.19.2.jar)
+- terralith:blooming_plateau? (from idas_forge-1.6.0+1.19.2.jar)
+- terralith:blooming_valley? (from idas_forge-1.6.0+1.19.2.jar)
+- biomesoplenty:field? (from idas_forge-1.6.0+1.19.2.jar)
+- biomesoplenty:highland? (from idas_forge-1.6.0+1.19.2.jar)
+- biomesoplenty:highland_moor? (from idas_forge-1.6.0+1.19.2.jar)
+- biomesoplenty:rocky_shrubland? (from idas_forge-1.6.0+1.19.2.jar)
+- biomesoplenty:clover_patch? (from idas_forge-1.6.0+1.19.2.jar)
+
+#c:icy
+- terralith:frozen_cliffs (from Terralith_v2.3.6.jar)
+- terralith:glacial_chasm (from Terralith_v2.3.6.jar)
+- terralith:skylands_winter (from Terralith_v2.3.6.jar)
+
+#supplementaries:has_way_signs
+- #minecraft:is_overworld (from Supplementaries Generated Pack)
+
+#c:stony_shores
+- terralith:amethyst_canyon (from Terralith_v2.3.6.jar)
+- terralith:basalt_cliffs (from Terralith_v2.3.6.jar)
+- terralith:granite_cliffs (from Terralith_v2.3.6.jar)
+- terralith:gravel_beach (from Terralith_v2.3.6.jar)
+
+#idas:has_structure/bopredwood_biomes
+- biomesoplenty:redwood_forest (from idas_forge-1.6.0+1.19.2.jar)
+
+#idas:has_structure/witches_treestump_biomes
+- #idas:collections/idasregular_forests (from idas_forge-1.6.0+1.19.2.jar)
+- #idas:collections/idasspooky_forests (from idas_forge-1.6.0+1.19.2.jar)
+
+#idas:has_structure/sunken_ship_coral_biomes
+- minecraft:warm_ocean (from idas_forge-1.6.0+1.19.2.jar)
+
+#idas:has_structure/acacia_biomes
+- #idas:collections/idassavannas (from idas_forge-1.6.0+1.19.2.jar)
+
+#minecraft:allows_tropical_fish_spawns_at_any_height
+- minecraft:lush_caves (from Default)
+
+#idas:has_structure/ancient_portal_biomes
+- #idas:collections/idasany_forests (from idas_forge-1.6.0+1.19.2.jar)
+- #idas:collections/idasbadlands (from idas_forge-1.6.0+1.19.2.jar)
+- #idas:collections/idascaves (from idas_forge-1.6.0+1.19.2.jar)
+- #idas:collections/idasdeserts (from idas_forge-1.6.0+1.19.2.jar)
+- #idas:collections/idasgiant_taigas (from idas_forge-1.6.0+1.19.2.jar)
+- #idas:collections/idashills (from idas_forge-1.6.0+1.19.2.jar)
+- #idas:collections/idasicy (from idas_forge-1.6.0+1.19.2.jar)
+- #idas:collections/idasjungles (from idas_forge-1.6.0+1.19.2.jar)
+- #idas:collections/idasmeadows (from idas_forge-1.6.0+1.19.2.jar)
+- #idas:collections/idasmountains (from idas_forge-1.6.0+1.19.2.jar)
+- #idas:collections/idasmushrooms (from idas_forge-1.6.0+1.19.2.jar)
+- #idas:collections/idasplains (from idas_forge-1.6.0+1.19.2.jar)
+- #idas:collections/idassavannas (from idas_forge-1.6.0+1.19.2.jar)
+- #idas:collections/idassnowy_forests (from idas_forge-1.6.0+1.19.2.jar)
+- #idas:collections/idassnowy_plains (from idas_forge-1.6.0+1.19.2.jar)
+- #idas:collections/idassnowy_mountains (from idas_forge-1.6.0+1.19.2.jar)
+- #idas:collections/idasswamps (from idas_forge-1.6.0+1.19.2.jar)
+- #idas:collections/idastaigas (from idas_forge-1.6.0+1.19.2.jar)
+- #idas:collections/idasmeadows (from idas_forge-1.6.0+1.19.2.jar)
+
+#dungeons_arise:has_structure/fishing_hut_biomes
+- #minecraft:is_beach (from DungeonsArise-1.19.2-2.1.54-release.jar)
+
+#supplementaries:has_basalt_ash
+- minecraft:basalt_deltas (from Supplementaries Generated Pack)
+
+#minecraft:polar_bears_spawn_on_alternate_blocks
+- minecraft:frozen_ocean (from Default)
+- minecraft:deep_frozen_ocean (from Default)
+
+#minecraft:has_structure/village_plains
+- minecraft:plains (from Default)
+- minecraft:meadow (from Default)
+- minecraft:plains (from Terralith_v2.3.6.jar)
+- minecraft:meadow (from Terralith_v2.3.6.jar)
+- terralith:blooming_plateau (from Terralith_v2.3.6.jar)
+- terralith:steppe (from Terralith_v2.3.6.jar)
+- terralith:birch_taiga (from Terralith_v2.3.6.jar)
+- terralith:lavender_forest (from Terralith_v2.3.6.jar)
+- terralith:temperate_highlands (from Terralith_v2.3.6.jar)
+
+#minecolonies:has_structure/asian_colony
+- minecraft:plains (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- #forge:is_plains (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:sunflower_plains (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:snowy_plains (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:forest (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- #minecraft:is_forest (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:flower_forest (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:birch_forest (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:old_growth_birch_forest (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:windswept_hills (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:windswept_gravelly_hills (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:windswept_forest (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:meadow (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:snowy_slopes (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:frozen_peaks (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:jagged_peaks (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:stony_peaks (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- #forge:is_peak (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:river (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:frozen_river (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:beach (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- #minecraft:is_beach (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:snowy_beach (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:stony_shore (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:mushroom_fields (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+
+#idas:collections/idashills
+- #minecraft:is_hill (from idas_forge-1.6.0+1.19.2.jar)
+- forge:hills? (from idas_forge-1.6.0+1.19.2.jar)
+- c:hills? (from idas_forge-1.6.0+1.19.2.jar)
+- c:extreme_hills? (from idas_forge-1.6.0+1.19.2.jar)
+
+#ad_astra:has_structure/mars_temple_biomes
+- ad_astra:martian_wastelands (from ad_astra-forge-1.19.2-1.12.3.jar)
+- ad_astra:martian_canyon_creek (from ad_astra-forge-1.19.2-1.12.3.jar)
+
+#c:ocean
+
+#forge:is_coniferous
+- terralith:alpine_grove (from Terralith_v2.3.6.jar)
+- terralith:alpine_highlands (from Terralith_v2.3.6.jar)
+- terralith:bryce_canyon (from Terralith_v2.3.6.jar)
+- terralith:cloud_forest (from Terralith_v2.3.6.jar)
+- terralith:forested_highlands (from Terralith_v2.3.6.jar)
+- terralith:lush_valley (from Terralith_v2.3.6.jar)
+- terralith:rocky_shrubland (from Terralith_v2.3.6.jar)
+- terralith:scarlet_mountains (from Terralith_v2.3.6.jar)
+- terralith:shield (from Terralith_v2.3.6.jar)
+- terralith:siberian_grove (from Terralith_v2.3.6.jar)
+- terralith:siberian_taiga (from Terralith_v2.3.6.jar)
+- terralith:snowy_maple_forest (from Terralith_v2.3.6.jar)
+- terralith:wintry_forest (from Terralith_v2.3.6.jar)
+- terralith:wintry_lowlands (from Terralith_v2.3.6.jar)
+- minecraft:taiga (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:snowy_taiga (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:old_growth_pine_taiga (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:grove (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:is_snowy
+- terralith:alpha_islands_winter (from Terralith_v2.3.6.jar)
+- terralith:alpine_grove (from Terralith_v2.3.6.jar)
+- terralith:cold_shrubland (from Terralith_v2.3.6.jar)
+- terralith:emerald_peaks (from Terralith_v2.3.6.jar)
+- terralith:gravel_desert (from Terralith_v2.3.6.jar)
+- terralith:ice_marsh (from Terralith_v2.3.6.jar)
+- terralith:rocky_mountains (from Terralith_v2.3.6.jar)
+- terralith:rocky_shrubland (from Terralith_v2.3.6.jar)
+- terralith:siberian_grove (from Terralith_v2.3.6.jar)
+- terralith:skylands_winter (from Terralith_v2.3.6.jar)
+- terralith:snowy_badlands (from Terralith_v2.3.6.jar)
+- terralith:snowy_maple_forest (from Terralith_v2.3.6.jar)
+- terralith:snowy_shield (from Terralith_v2.3.6.jar)
+- terralith:wintry_forest (from Terralith_v2.3.6.jar)
+- terralith:wintry_lowlands (from Terralith_v2.3.6.jar)
+- minecraft:frozen_ocean (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:frozen_river (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:snowy_plains (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:snowy_beach (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:snowy_taiga (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:grove (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:snowy_slopes (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:jagged_peaks (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:frozen_peaks (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:ice_spikes (from forge-1.19.2-43.2.3-universal.jar)
+
+#dungeons_arise:has_structure/aviary_biomes
+- minecraft:end_midlands (from DungeonsArise-1.19.2-2.1.54-release.jar)
+- minecraft:end_highlands (from DungeonsArise-1.19.2-2.1.54-release.jar)
+
+#dungeons_arise:has_structure/keep_kayra_biomes
+- minecraft:swamp (from DungeonsArise-1.19.2-2.1.54-release.jar)
+- minecraft:mangrove_swamp (from DungeonsArise-1.19.2-2.1.54-release.jar)
+- #minecraft:is_taiga (from DungeonsArise-1.19.2-2.1.54-release.jar)
+
+#ad_astra:has_structure/venus_bullet_biomes
+- ad_astra:venus_wastelands (from ad_astra-forge-1.19.2-1.12.3.jar)
+
+#minecraft:has_structure/swamp_hut
+- minecraft:swamp (from Default)
+- terralith:orchid_swamp (from Terralith_v2.3.6.jar)
+- terralith:siberian_taiga (from Terralith_v2.3.6.jar)
+- terralith:ice_marsh (from Terralith_v2.3.6.jar)
+
+#dungeons_arise:has_structure/scorched_mines_biomes
+- minecraft:desert (from DungeonsArise-1.19.2-2.1.54-release.jar)
+- #minecraft:has_structure/desert_pyramid (from DungeonsArise-1.19.2-2.1.54-release.jar)
+
+#dungeons_arise:has_structure/mushroom_village_biomes
+- #minecraft:is_forest (from DungeonsArise-1.19.2-2.1.54-release.jar)
+
+#idas:has_structure/red_desert_biomes
+- #idas:collections/idasbadlands (from idas_forge-1.6.0+1.19.2.jar)
+
+#forge:is_water
+- terralith:warm_river (from Terralith_v2.3.6.jar)
+- #minecraft:is_ocean (from forge-1.19.2-43.2.3-universal.jar)
+- #minecraft:is_river (from forge-1.19.2-43.2.3-universal.jar)
+
+#minecraft:has_structure/ruined_portal_nether
+- #minecraft:is_nether (from Default)
+- #minecraft:is_nether (from Terralith_v2.3.6.jar)
+
+#minecraft:only_allows_snow_and_gold_rabbits
+- minecraft:desert (from Default)
+
+#idas:collections/idasicy
+- minecraft:ice_spikes (from idas_forge-1.6.0+1.19.2.jar)
+- minecraft:frozen_peaks (from idas_forge-1.6.0+1.19.2.jar)
+- byg:shattered_glacier? (from idas_forge-1.6.0+1.19.2.jar)
+
+#minecraft:stronghold_biased_to
+- minecraft:plains (from Default)
+- minecraft:sunflower_plains (from Default)
+- minecraft:snowy_plains (from Default)
+- minecraft:ice_spikes (from Default)
+- minecraft:desert (from Default)
+- minecraft:forest (from Default)
+- minecraft:flower_forest (from Default)
+- minecraft:birch_forest (from Default)
+- minecraft:dark_forest (from Default)
+- minecraft:old_growth_birch_forest (from Default)
+- minecraft:old_growth_pine_taiga (from Default)
+- minecraft:old_growth_spruce_taiga (from Default)
+- minecraft:taiga (from Default)
+- minecraft:snowy_taiga (from Default)
+- minecraft:savanna (from Default)
+- minecraft:savanna_plateau (from Default)
+- minecraft:windswept_hills (from Default)
+- minecraft:windswept_gravelly_hills (from Default)
+- minecraft:windswept_forest (from Default)
+- minecraft:windswept_savanna (from Default)
+- minecraft:jungle (from Default)
+- minecraft:sparse_jungle (from Default)
+- minecraft:bamboo_jungle (from Default)
+- minecraft:badlands (from Default)
+- minecraft:eroded_badlands (from Default)
+- minecraft:wooded_badlands (from Default)
+- minecraft:meadow (from Default)
+- minecraft:grove (from Default)
+- minecraft:snowy_slopes (from Default)
+- minecraft:frozen_peaks (from Default)
+- minecraft:jagged_peaks (from Default)
+- minecraft:stony_peaks (from Default)
+- minecraft:mushroom_fields (from Default)
+- minecraft:dripstone_caves (from Default)
+- minecraft:lush_caves (from Default)
+
+#forge:is_magical
+- quark:glimmering_weald (from Quark-3.4-393.jar)
+
+#forge:is_dry/nether
+- minecraft:nether_wastes (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:soul_sand_valley (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:crimson_forest (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:warped_forest (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:basalt_deltas (from forge-1.19.2-43.2.3-universal.jar)
+
+#minecraft:is_beach
+- minecraft:beach (from Default)
+- minecraft:snowy_beach (from Default)
+- minecraft:beach (from Terralith_v2.3.6.jar)
+- minecraft:snowy_beach (from Terralith_v2.3.6.jar)
+- terralith:gravel_beach (from Terralith_v2.3.6.jar)
+
+#minecraft:has_structure/ruined_portal_standard
+- #minecraft:is_beach (from Default)
+- #minecraft:is_river (from Default)
+- #minecraft:is_taiga (from Default)
+- #minecraft:is_forest (from Default)
+- minecraft:mushroom_fields (from Default)
+- minecraft:ice_spikes (from Default)
+- minecraft:dripstone_caves (from Default)
+- minecraft:lush_caves (from Default)
+- minecraft:savanna (from Default)
+- minecraft:snowy_plains (from Default)
+- minecraft:plains (from Default)
+- minecraft:sunflower_plains (from Default)
+- #minecraft:is_beach (from Terralith_v2.3.6.jar)
+- #minecraft:is_river (from Terralith_v2.3.6.jar)
+- #minecraft:is_taiga (from Terralith_v2.3.6.jar)
+- #minecraft:is_forest (from Terralith_v2.3.6.jar)
+- minecraft:mushroom_fields (from Terralith_v2.3.6.jar)
+- minecraft:ice_spikes (from Terralith_v2.3.6.jar)
+- minecraft:dripstone_caves (from Terralith_v2.3.6.jar)
+- minecraft:lush_caves (from Terralith_v2.3.6.jar)
+- minecraft:savanna (from Terralith_v2.3.6.jar)
+- minecraft:snowy_plains (from Terralith_v2.3.6.jar)
+- minecraft:plains (from Terralith_v2.3.6.jar)
+- minecraft:sunflower_plains (from Terralith_v2.3.6.jar)
+
+#idas:collections/idasdeserts
+- minecraft:desert (from idas_forge-1.6.0+1.19.2.jar)
+- terralith:ancient_sands? (from idas_forge-1.6.0+1.19.2.jar)
+- terralith:desert_oasis? (from idas_forge-1.6.0+1.19.2.jar)
+- terralith:desert_spires? (from idas_forge-1.6.0+1.19.2.jar)
+- terralith:lush_desert? (from idas_forge-1.6.0+1.19.2.jar)
+- terralith:red_oasis? (from idas_forge-1.6.0+1.19.2.jar)
+- terralith:sandstone_valley? (from idas_forge-1.6.0+1.19.2.jar)
+- byg:mojave_desert? (from idas_forge-1.6.0+1.19.2.jar)
+- biomesoplenty:lush_desert? (from idas_forge-1.6.0+1.19.2.jar)
+- forge:sandy? (from idas_forge-1.6.0+1.19.2.jar)
+- c:sandy? (from idas_forge-1.6.0+1.19.2.jar)
+- forge:desert? (from idas_forge-1.6.0+1.19.2.jar)
+- c:desert? (from idas_forge-1.6.0+1.19.2.jar)
+
+#minecraft:has_structure/pillager_outpost
+- minecraft:desert (from Default)
+- minecraft:plains (from Default)
+- minecraft:savanna (from Default)
+- minecraft:snowy_plains (from Default)
+- minecraft:taiga (from Default)
+- #minecraft:is_mountain (from Default)
+- minecraft:grove (from Default)
+- minecraft:desert (from Terralith_v2.3.6.jar)
+- minecraft:plains (from Terralith_v2.3.6.jar)
+- minecraft:savanna (from Terralith_v2.3.6.jar)
+- minecraft:snowy_plains (from Terralith_v2.3.6.jar)
+- minecraft:taiga (from Terralith_v2.3.6.jar)
+- #minecraft:is_mountain (from Terralith_v2.3.6.jar)
+- minecraft:grove (from Terralith_v2.3.6.jar)
+- terralith:yellowstone (from Terralith_v2.3.6.jar)
+- terralith:shield (from Terralith_v2.3.6.jar)
+- terralith:lush_valley (from Terralith_v2.3.6.jar)
+- terralith:sakura_valley (from Terralith_v2.3.6.jar)
+- terralith:sakura_grove (from Terralith_v2.3.6.jar)
+- terralith:lavender_forest (from Terralith_v2.3.6.jar)
+
+#idas:collections/idassnowy_plains
+- minecraft:snowy_plains (from idas_forge-1.6.0+1.19.2.jar)
+- terralith:alpine_grove? (from idas_forge-1.6.0+1.19.2.jar)
+- terralith:cold_shrubland? (from idas_forge-1.6.0+1.19.2.jar)
+- terralith:snowy_badlands? (from idas_forge-1.6.0+1.19.2.jar)
+- terralith:snowy_shield? (from idas_forge-1.6.0+1.19.2.jar)
+- biomesoplenty:snowy_fir_clearing? (from idas_forge-1.6.0+1.19.2.jar)
+- forge:snowy? (from idas_forge-1.6.0+1.19.2.jar)
+- c:snowy? (from idas_forge-1.6.0+1.19.2.jar)
+- c:snowy_plains? (from idas_forge-1.6.0+1.19.2.jar)
+
+#forge:is_sparse
+- #forge:is_sparse/overworld (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:is_sparse/nether? (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:is_sparse/end? (from forge-1.19.2-43.2.3-universal.jar)
+
+#forge:is_swamp
+- terralith:ice_marsh (from Terralith_v2.3.6.jar)
+- terralith:orchid_swamp (from Terralith_v2.3.6.jar)
+- minecraft:swamp (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:mangrove_swamp (from forge-1.19.2-43.2.3-universal.jar)
+
+#minecraft:is_mountain
+- minecraft:meadow (from Default)
+- minecraft:frozen_peaks (from Default)
+- minecraft:jagged_peaks (from Default)
+- minecraft:stony_peaks (from Default)
+- minecraft:snowy_slopes (from Default)
+- minecraft:meadow (from Terralith_v2.3.6.jar)
+- minecraft:frozen_peaks (from Terralith_v2.3.6.jar)
+- minecraft:jagged_peaks (from Terralith_v2.3.6.jar)
+- minecraft:stony_peaks (from Terralith_v2.3.6.jar)
+- minecraft:snowy_slopes (from Terralith_v2.3.6.jar)
+- terralith:emerald_peaks (from Terralith_v2.3.6.jar)
+- terralith:scarlet_mountains (from Terralith_v2.3.6.jar)
+- terralith:rocky_mountains (from Terralith_v2.3.6.jar)
+- terralith:caldera (from Terralith_v2.3.6.jar)
+- terralith:volcanic_peaks (from Terralith_v2.3.6.jar)
+
+#idas:has_structure/forest_biomes
+- #idas:collections/idasregular_forests (from idas_forge-1.6.0+1.19.2.jar)
+- #idas:collections/idasbirch_forests (from idas_forge-1.6.0+1.19.2.jar)
+- #idas:collections/idasany_forests (from idas_forge-1.6.0+1.19.2.jar)
+
+#dungeons_arise:has_structure/bandit_village_biomes
+- #minecraft:is_badlands (from DungeonsArise-1.19.2-2.1.54-release.jar)
+
+#c:plains
+- terralith:highlands (from Terralith_v2.3.6.jar)
+
+#idas:collections/idaswindswept_deserts
+- byg:windswept_desert? (from idas_forge-1.6.0+1.19.2.jar)
+
+#minecraft:is_badlands
+- minecraft:badlands (from Default)
+- minecraft:eroded_badlands (from Default)
+- minecraft:wooded_badlands (from Default)
+- minecraft:badlands (from Terralith_v2.3.6.jar)
+- minecraft:eroded_badlands (from Terralith_v2.3.6.jar)
+- minecraft:wooded_badlands (from Terralith_v2.3.6.jar)
+- terralith:painted_mountains (from Terralith_v2.3.6.jar)
+- terralith:bryce_canyon (from Terralith_v2.3.6.jar)
+- terralith:savanna_badlands (from Terralith_v2.3.6.jar)
+
+#idas:has_structure/wizardtower_biomes
+- #idas:collections/idasregular_forests (from idas_forge-1.6.0+1.19.2.jar)
+- #idas:collections/idasbirch_forests (from idas_forge-1.6.0+1.19.2.jar)
+- #idas:collections/idasspooky_forests (from idas_forge-1.6.0+1.19.2.jar)
+- #idas:collections/idasplains (from idas_forge-1.6.0+1.19.2.jar)
+- #idas:collections/idasmeadows (from idas_forge-1.6.0+1.19.2.jar)
+
+#forge:is_dry/end
+- minecraft:the_end (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:small_end_islands (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:end_midlands (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:end_highlands (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:end_barrens (from forge-1.19.2-43.2.3-universal.jar)
+
+#c:climate_temperate
+- terralith:alpha_islands (from Terralith_v2.3.6.jar)
+- terralith:blooming_plateau (from Terralith_v2.3.6.jar)
+- terralith:blooming_valley (from Terralith_v2.3.6.jar)
+- terralith:gravel_beach (from Terralith_v2.3.6.jar)
+- terralith:lavender_forest (from Terralith_v2.3.6.jar)
+- terralith:lavender_valley (from Terralith_v2.3.6.jar)
+- terralith:lush_valley (from Terralith_v2.3.6.jar)
+- terralith:mirage_isles (from Terralith_v2.3.6.jar)
+- terralith:moonlight_grove (from Terralith_v2.3.6.jar)
+- terralith:moonlight_valley (from Terralith_v2.3.6.jar)
+- terralith:sakura_grove (from Terralith_v2.3.6.jar)
+- terralith:sakura_valley (from Terralith_v2.3.6.jar)
+- terralith:skylands (from Terralith_v2.3.6.jar)
+- terralith:skylands_autumn (from Terralith_v2.3.6.jar)
+- terralith:skylands_spring (from Terralith_v2.3.6.jar)
+- terralith:steppe (from Terralith_v2.3.6.jar)
+- terralith:stony_spires (from Terralith_v2.3.6.jar)
+- terralith:temperate_highlands (from Terralith_v2.3.6.jar)
+- terralith:valley_clearing (from Terralith_v2.3.6.jar)
+- terralith:white_cliffs (from Terralith_v2.3.6.jar)
+- terralith:windswept_spires (from Terralith_v2.3.6.jar)
+- terralith:yosemite_cliffs (from Terralith_v2.3.6.jar)
+- terralith:yosemite_lowlands (from Terralith_v2.3.6.jar)
+
+#terralith:has_structure/spire
+- terralith:wintry_lowlands (from Terralith_v2.3.6.jar)
+- minecraft:ice_spikes (from Terralith_v2.3.6.jar)
+- minecraft:frozen_river (from Terralith_v2.3.6.jar)
+
+#c:aquatic
+- terralith:warm_river (from Terralith_v2.3.6.jar)
+
+#c:aquatic_icy
+
+#minecraft:has_structure/nether_fossil
+- minecraft:soul_sand_valley (from Default)
+
+#terralith:all_terralith_biomes_no_mineshafts
+- terralith:desert_canyon (from Terralith_v2.3.6.jar)
+- terralith:cave/andesite_caves (from Terralith_v2.3.6.jar)
+- terralith:cave/crystal_caves (from Terralith_v2.3.6.jar)
+- terralith:cave/deep_caves (from Terralith_v2.3.6.jar)
+- terralith:cave/desert_caves (from Terralith_v2.3.6.jar)
+- terralith:cave/diorite_caves (from Terralith_v2.3.6.jar)
+- terralith:cave/fungal_caves (from Terralith_v2.3.6.jar)
+- terralith:cave/granite_caves (from Terralith_v2.3.6.jar)
+- terralith:cave/ice_caves (from Terralith_v2.3.6.jar)
+- terralith:cave/infested_caves (from Terralith_v2.3.6.jar)
+- terralith:cave/mantle_caves (from Terralith_v2.3.6.jar)
+- terralith:cave/thermal_caves (from Terralith_v2.3.6.jar)
+- terralith:cave/tuff_caves (from Terralith_v2.3.6.jar)
+- terralith:alpine_grove (from Terralith_v2.3.6.jar)
+- terralith:alpine_highlands (from Terralith_v2.3.6.jar)
+- terralith:amethyst_canyon (from Terralith_v2.3.6.jar)
+- terralith:amethyst_rainforest (from Terralith_v2.3.6.jar)
+- terralith:ancient_sands (from Terralith_v2.3.6.jar)
+- terralith:arid_highlands (from Terralith_v2.3.6.jar)
+- terralith:ashen_savanna (from Terralith_v2.3.6.jar)
+- terralith:basalt_cliffs (from Terralith_v2.3.6.jar)
+- terralith:birch_taiga (from Terralith_v2.3.6.jar)
+- terralith:blooming_plateau (from Terralith_v2.3.6.jar)
+- terralith:blooming_valley (from Terralith_v2.3.6.jar)
+- terralith:brushland (from Terralith_v2.3.6.jar)
+- terralith:bryce_canyon (from Terralith_v2.3.6.jar)
+- terralith:caldera (from Terralith_v2.3.6.jar)
+- terralith:cloud_forest (from Terralith_v2.3.6.jar)
+- terralith:cold_shrubland (from Terralith_v2.3.6.jar)
+- terralith:desert_oasis (from Terralith_v2.3.6.jar)
+- terralith:desert_spires (from Terralith_v2.3.6.jar)
+- terralith:emerald_peaks (from Terralith_v2.3.6.jar)
+- terralith:forested_highlands (from Terralith_v2.3.6.jar)
+- terralith:fractured_savanna (from Terralith_v2.3.6.jar)
+- terralith:frozen_cliffs (from Terralith_v2.3.6.jar)
+- terralith:glacial_chasm (from Terralith_v2.3.6.jar)
+- terralith:granite_cliffs (from Terralith_v2.3.6.jar)
+- terralith:gravel_beach (from Terralith_v2.3.6.jar)
+- terralith:gravel_desert (from Terralith_v2.3.6.jar)
+- terralith:haze_mountain (from Terralith_v2.3.6.jar)
+- terralith:highlands (from Terralith_v2.3.6.jar)
+- terralith:hot_shrubland (from Terralith_v2.3.6.jar)
+- terralith:ice_marsh (from Terralith_v2.3.6.jar)
+- terralith:jungle_mountains (from Terralith_v2.3.6.jar)
+- terralith:lavender_forest (from Terralith_v2.3.6.jar)
+- terralith:lavender_valley (from Terralith_v2.3.6.jar)
+- terralith:lush_valley (from Terralith_v2.3.6.jar)
+- terralith:mirage_isles (from Terralith_v2.3.6.jar)
+- terralith:moonlight_grove (from Terralith_v2.3.6.jar)
+- terralith:moonlight_valley (from Terralith_v2.3.6.jar)
+- terralith:mountain_steppe (from Terralith_v2.3.6.jar)
+- terralith:orchid_swamp (from Terralith_v2.3.6.jar)
+- terralith:red_oasis (from Terralith_v2.3.6.jar)
+- terralith:rocky_jungle (from Terralith_v2.3.6.jar)
+- terralith:rocky_mountains (from Terralith_v2.3.6.jar)
+- terralith:rocky_shrubland (from Terralith_v2.3.6.jar)
+- terralith:sakura_grove (from Terralith_v2.3.6.jar)
+- terralith:sakura_valley (from Terralith_v2.3.6.jar)
+- terralith:sandstone_valley (from Terralith_v2.3.6.jar)
+- terralith:savanna_slopes (from Terralith_v2.3.6.jar)
+- terralith:scarlet_mountains (from Terralith_v2.3.6.jar)
+- terralith:shield_clearing (from Terralith_v2.3.6.jar)
+- terralith:shield (from Terralith_v2.3.6.jar)
+- terralith:shrubland (from Terralith_v2.3.6.jar)
+- terralith:siberian_grove (from Terralith_v2.3.6.jar)
+- terralith:siberian_taiga (from Terralith_v2.3.6.jar)
+- terralith:skylands_autumn (from Terralith_v2.3.6.jar)
+- terralith:skylands_spring (from Terralith_v2.3.6.jar)
+- terralith:skylands_summer (from Terralith_v2.3.6.jar)
+- terralith:skylands_winter (from Terralith_v2.3.6.jar)
+- terralith:skylands (from Terralith_v2.3.6.jar)
+- terralith:snowy_badlands (from Terralith_v2.3.6.jar)
+- terralith:snowy_maple_forest (from Terralith_v2.3.6.jar)
+- terralith:snowy_shield (from Terralith_v2.3.6.jar)
+- terralith:steppe (from Terralith_v2.3.6.jar)
+- terralith:stony_spires (from Terralith_v2.3.6.jar)
+- terralith:temperate_highlands (from Terralith_v2.3.6.jar)
+- terralith:tropical_jungle (from Terralith_v2.3.6.jar)
+- terralith:valley_clearing (from Terralith_v2.3.6.jar)
+- terralith:volcanic_crater (from Terralith_v2.3.6.jar)
+- terralith:volcanic_peaks (from Terralith_v2.3.6.jar)
+- terralith:warm_river (from Terralith_v2.3.6.jar)
+- terralith:warped_mesa (from Terralith_v2.3.6.jar)
+- terralith:white_cliffs (from Terralith_v2.3.6.jar)
+- terralith:white_mesa (from Terralith_v2.3.6.jar)
+- terralith:windswept_spires (from Terralith_v2.3.6.jar)
+- terralith:wintry_forest (from Terralith_v2.3.6.jar)
+- terralith:yellowstone (from Terralith_v2.3.6.jar)
+- terralith:yosemite_cliffs (from Terralith_v2.3.6.jar)
+- terralith:yosemite_lowlands (from Terralith_v2.3.6.jar)
+
+#dungeons_arise:has_structure/heavenly_conqueror_biomes
+- #minecraft:is_jungle (from DungeonsArise-1.19.2-2.1.54-release.jar)
+- #minecraft:is_forest (from DungeonsArise-1.19.2-2.1.54-release.jar)
+- minecraft:desert (from DungeonsArise-1.19.2-2.1.54-release.jar)
+- minecraft:plains (from DungeonsArise-1.19.2-2.1.54-release.jar)
+- minecraft:sunflower_plains (from DungeonsArise-1.19.2-2.1.54-release.jar)
+- minecraft:savanna (from DungeonsArise-1.19.2-2.1.54-release.jar)
+- minecraft:savanna_plateau (from DungeonsArise-1.19.2-2.1.54-release.jar)
+- minecraft:end_midlands (from DungeonsArise-1.19.2-2.1.54-release.jar)
+- minecraft:end_highlands (from DungeonsArise-1.19.2-2.1.54-release.jar)
+
+#idas:has_structure/winter_wagon_biomes
+- #idas:collections/idassnowy_forests (from idas_forge-1.6.0+1.19.2.jar)
+- #idas:collections/idassnowy_plains (from idas_forge-1.6.0+1.19.2.jar)
+
+#c:vegetation_sparse
+- terralith:alpine_grove (from Terralith_v2.3.6.jar)
+- terralith:arid_highlands (from Terralith_v2.3.6.jar)
+- terralith:brushland (from Terralith_v2.3.6.jar)
+- terralith:cold_shrubland (from Terralith_v2.3.6.jar)
+- terralith:highlands (from Terralith_v2.3.6.jar)
+- terralith:hot_shrubland (from Terralith_v2.3.6.jar)
+- terralith:rocky_shrubland (from Terralith_v2.3.6.jar)
+- terralith:savanna_badlands (from Terralith_v2.3.6.jar)
+- terralith:savanna_slopes (from Terralith_v2.3.6.jar)
+- terralith:shield_clearing (from Terralith_v2.3.6.jar)
+- terralith:steppe (from Terralith_v2.3.6.jar)
+- terralith:valley_clearing (from Terralith_v2.3.6.jar)
+- terralith:windswept_spires (from Terralith_v2.3.6.jar)
+- terralith:yosemite_cliffs (from Terralith_v2.3.6.jar)
+
+#forge:is_cold/overworld
+- terralith:alpha_islands_winter (from Terralith_v2.3.6.jar)
+- terralith:alpine_grove (from Terralith_v2.3.6.jar)
+- terralith:alpine_highlands (from Terralith_v2.3.6.jar)
+- terralith:birch_taiga (from Terralith_v2.3.6.jar)
+- terralith:caldera (from Terralith_v2.3.6.jar)
+- terralith:cloud_forest (from Terralith_v2.3.6.jar)
+- terralith:cold_shrubland (from Terralith_v2.3.6.jar)
+- terralith:emerald_peaks (from Terralith_v2.3.6.jar)
+- terralith:forested_highlands (from Terralith_v2.3.6.jar)
+- terralith:frozen_cliffs (from Terralith_v2.3.6.jar)
+- terralith:glacial_chasm (from Terralith_v2.3.6.jar)
+- terralith:gravel_desert (from Terralith_v2.3.6.jar)
+- terralith:haze_mountain (from Terralith_v2.3.6.jar)
+- terralith:highlands (from Terralith_v2.3.6.jar)
+- terralith:ice_marsh (from Terralith_v2.3.6.jar)
+- terralith:rocky_mountains (from Terralith_v2.3.6.jar)
+- terralith:rocky_shrubland (from Terralith_v2.3.6.jar)
+- terralith:scarlet_mountains (from Terralith_v2.3.6.jar)
+- terralith:shield (from Terralith_v2.3.6.jar)
+- terralith:siberian_grove (from Terralith_v2.3.6.jar)
+- terralith:siberian_taiga (from Terralith_v2.3.6.jar)
+- terralith:skylands_winter (from Terralith_v2.3.6.jar)
+- terralith:snowy_badlands (from Terralith_v2.3.6.jar)
+- terralith:snowy_maple_forest (from Terralith_v2.3.6.jar)
+- terralith:snowy_shield (from Terralith_v2.3.6.jar)
+- terralith:wintry_forest (from Terralith_v2.3.6.jar)
+- terralith:wintry_lowlands (from Terralith_v2.3.6.jar)
+- terralith:yellowstone (from Terralith_v2.3.6.jar)
+- terralith:cave/frostfire_caves (from Terralith_v2.3.6.jar)
+- terralith:cave/ice_caves (from Terralith_v2.3.6.jar)
+- minecraft:taiga (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:frozen_ocean (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:frozen_river (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:snowy_plains (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:snowy_beach (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:snowy_taiga (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:old_growth_pine_taiga (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:grove (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:snowy_slopes (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:jagged_peaks (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:frozen_peaks (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:cold_ocean (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:deep_cold_ocean (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:deep_frozen_ocean (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:ice_spikes (from forge-1.19.2-43.2.3-universal.jar)
+
+#minecraft:has_structure/end_city
+- minecraft:end_highlands (from Default)
+- minecraft:end_midlands (from Default)
+- minecraft:end_highlands (from Terralith_v2.3.6.jar)
+- minecraft:end_midlands (from Terralith_v2.3.6.jar)
+
+#idas:collections/idasgiant_taigas
+- minecraft:old_growth_pine_taiga (from idas_forge-1.6.0+1.19.2.jar)
+- minecraft:old_growth_spruce_taiga (from idas_forge-1.6.0+1.19.2.jar)
+- biomesoplenty:redwood_forest? (from idas_forge-1.6.0+1.19.2.jar)
+- byg:redwood_thicket? (from idas_forge-1.6.0+1.19.2.jar)
+
+#dungeons_arise:has_structure/illager_corsair_biomes
+- #minecraft:is_ocean (from DungeonsArise-1.19.2-2.1.54-release.jar)
+
+#forge:is_dense/overworld
+- terralith:jungle_mountains (from Terralith_v2.3.6.jar)
+- terralith:lush_valley (from Terralith_v2.3.6.jar)
+- terralith:skylands_winter (from Terralith_v2.3.6.jar)
+- terralith:tropical_jungle (from Terralith_v2.3.6.jar)
+- terralith:wintry_forest (from Terralith_v2.3.6.jar)
+- terralith:wintry_lowlands (from Terralith_v2.3.6.jar)
+- minecraft:jungle (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:dark_forest (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:old_growth_birch_forest (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:old_growth_spruce_taiga (from forge-1.19.2-43.2.3-universal.jar)
+
+#dungeons_arise:has_structure/heavenly_rider_biomes
+- #minecraft:is_jungle (from DungeonsArise-1.19.2-2.1.54-release.jar)
+- #minecraft:is_forest (from DungeonsArise-1.19.2-2.1.54-release.jar)
+- minecraft:desert (from DungeonsArise-1.19.2-2.1.54-release.jar)
+- minecraft:plains (from DungeonsArise-1.19.2-2.1.54-release.jar)
+- minecraft:sunflower_plains (from DungeonsArise-1.19.2-2.1.54-release.jar)
+- minecraft:savanna (from DungeonsArise-1.19.2-2.1.54-release.jar)
+- minecraft:savanna_plateau (from DungeonsArise-1.19.2-2.1.54-release.jar)
+- minecraft:end_midlands (from DungeonsArise-1.19.2-2.1.54-release.jar)
+- minecraft:end_highlands (from DungeonsArise-1.19.2-2.1.54-release.jar)
+
+#dungeons_arise:has_structure/ceryneian_hind_biomes
+- minecraft:desert (from DungeonsArise-1.19.2-2.1.54-release.jar)
+- #minecraft:has_structure/desert_pyramid (from DungeonsArise-1.19.2-2.1.54-release.jar)
+
+#c:beach
+- terralith:frozen_cliffs (from Terralith_v2.3.6.jar)
+- terralith:gravel_beach (from Terralith_v2.3.6.jar)
+
+#c:extreme_hills
+- terralith:blooming_plateau (from Terralith_v2.3.6.jar)
+- terralith:lush_valley (from Terralith_v2.3.6.jar)
+- terralith:shield (from Terralith_v2.3.6.jar)
+- terralith:shield_clearing (from Terralith_v2.3.6.jar)
+- terralith:snowy_shield (from Terralith_v2.3.6.jar)
+- terralith:steppe (from Terralith_v2.3.6.jar)
+- terralith:windswept_spires (from Terralith_v2.3.6.jar)
+- terralith:yellowstone (from Terralith_v2.3.6.jar)
+- terralith:yosemite_cliffs (from Terralith_v2.3.6.jar)
+
+#idas:has_structure/bazaar_biomes
+- minecraft:desert (from idas_forge-1.6.0+1.19.2.jar)
+- #idas:collections/idasdeserts (from idas_forge-1.6.0+1.19.2.jar)
+
+#minecraft:has_structure/bastion_remnant
+- minecraft:crimson_forest (from Default)
+- minecraft:nether_wastes (from Default)
+- minecraft:soul_sand_valley (from Default)
+- minecraft:warped_forest (from Default)
+- minecraft:crimson_forest (from Terralith_v2.3.6.jar)
+- minecraft:nether_wastes (from Terralith_v2.3.6.jar)
+- minecraft:soul_sand_valley (from Terralith_v2.3.6.jar)
+- minecraft:warped_forest (from Terralith_v2.3.6.jar)
+
+#idas:collections/idasmountains
+- #minecraft:is_mountain (from idas_forge-1.6.0+1.19.2.jar)
+- forge:mountain? (from idas_forge-1.6.0+1.19.2.jar)
+- c:mountain? (from idas_forge-1.6.0+1.19.2.jar)
+- c:mountain_peak? (from idas_forge-1.6.0+1.19.2.jar)
+- c:mountain_slope? (from idas_forge-1.6.0+1.19.2.jar)
+
+#dungeons_arise:has_structure/jungle_tree_house_biomes
+- #minecraft:is_jungle (from DungeonsArise-1.19.2-2.1.54-release.jar)
+
+#minecraft:has_structure/ruined_portal_mountain
+- #minecraft:is_badlands (from Default)
+- #minecraft:is_hill (from Default)
+- minecraft:savanna_plateau (from Default)
+- minecraft:windswept_savanna (from Default)
+- minecraft:stony_shore (from Default)
+- #minecraft:is_mountain (from Default)
+- #minecraft:is_badlands (from Terralith_v2.3.6.jar)
+- #minecraft:is_hill (from Terralith_v2.3.6.jar)
+- minecraft:savanna_plateau (from Terralith_v2.3.6.jar)
+- minecraft:windswept_savanna (from Terralith_v2.3.6.jar)
+- terralith:fractured_savanna (from Terralith_v2.3.6.jar)
+- minecraft:stony_shore (from Terralith_v2.3.6.jar)
+- #minecraft:is_mountain (from Terralith_v2.3.6.jar)
+
+#idas:has_structure/beekeepers_house_biomes
+- #idas:collections/idasmeadows (from idas_forge-1.6.0+1.19.2.jar)
+- #idas:collections/idasplains (from idas_forge-1.6.0+1.19.2.jar)
+- #idas:collections/idasbirch_forests (from idas_forge-1.6.0+1.19.2.jar)
+
+#idas:has_structure/vanilla_jungle_biomes
+- #idas:collections/idasjungles (from idas_forge-1.6.0+1.19.2.jar)
+
+#c:climate_wet
+- terralith:amethyst_canyon (from Terralith_v2.3.6.jar)
+- terralith:amethyst_rainforest (from Terralith_v2.3.6.jar)
+- terralith:blooming_valley (from Terralith_v2.3.6.jar)
+- terralith:caldera (from Terralith_v2.3.6.jar)
+- terralith:desert_oasis (from Terralith_v2.3.6.jar)
+- terralith:fractured_savanna (from Terralith_v2.3.6.jar)
+- terralith:granite_cliffs (from Terralith_v2.3.6.jar)
+- terralith:gravel_beach (from Terralith_v2.3.6.jar)
+- terralith:ice_marsh (from Terralith_v2.3.6.jar)
+- terralith:jungle_mountains (from Terralith_v2.3.6.jar)
+- terralith:mirage_isles (from Terralith_v2.3.6.jar)
+- terralith:orchid_swamp (from Terralith_v2.3.6.jar)
+- terralith:red_oasis (from Terralith_v2.3.6.jar)
+- terralith:rocky_jungle (from Terralith_v2.3.6.jar)
+- terralith:tropical_jungle (from Terralith_v2.3.6.jar)
+- terralith:white_cliffs (from Terralith_v2.3.6.jar)
+- terralith:yellowstone (from Terralith_v2.3.6.jar)
+- terralith:cave/thermal_caves (from Terralith_v2.3.6.jar)
+- terralith:cave/underground_jungle (from Terralith_v2.3.6.jar)
+
+#minecraft:water_on_map_outlines
+- #minecraft:is_ocean (from Default)
+- #minecraft:is_river (from Default)
+- minecraft:swamp (from Default)
+- minecraft:mangrove_swamp (from Default)
+
+#minecraft:is_river
+- minecraft:river (from Default)
+- minecraft:frozen_river (from Default)
+- minecraft:river (from Terralith_v2.3.6.jar)
+- minecraft:frozen_river (from Terralith_v2.3.6.jar)
+
+#minecolonies:has_structure/medieval_dark_oak_colony
+- minecraft:dark_forest (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:plains (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- #forge:is_plains (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:sunflower_plains (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:snowy_plains (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:forest (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- #minecraft:is_forest (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:flower_forest (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:windswept_hills (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:windswept_gravelly_hills (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:windswept_forest (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:meadow (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:snowy_slopes (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:frozen_peaks (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:jagged_peaks (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:stony_peaks (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- #forge:is_peak (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:river (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:frozen_river (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:beach (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- #minecraft:is_beach (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:snowy_beach (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:stony_shore (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:mushroom_fields (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+
+#alexsmobs:spawns_nether_tarantula_hawks
+- #minecraft:is_nether (from alexsmobs-1.21.1.jar)
+
+#dungeons_arise:has_structure/illager_campsite_biomes
+- minecraft:plains (from DungeonsArise-1.19.2-2.1.54-release.jar)
+- minecraft:meadow (from DungeonsArise-1.19.2-2.1.54-release.jar)
+- minecraft:sunflower_plains (from DungeonsArise-1.19.2-2.1.54-release.jar)
+- #minecraft:is_hill (from DungeonsArise-1.19.2-2.1.54-release.jar)
+
+#idas:collections/idasdark_oak_forests
+- minecraft:dark_forest (from idas_forge-1.6.0+1.19.2.jar)
+
+#c:tree_coniferous
+- terralith:alpine_grove (from Terralith_v2.3.6.jar)
+- terralith:alpine_highlands (from Terralith_v2.3.6.jar)
+- terralith:bryce_canyon (from Terralith_v2.3.6.jar)
+- terralith:cloud_forest (from Terralith_v2.3.6.jar)
+- terralith:forested_highlands (from Terralith_v2.3.6.jar)
+- terralith:lush_valley (from Terralith_v2.3.6.jar)
+- terralith:rocky_shrubland (from Terralith_v2.3.6.jar)
+- terralith:scarlet_mountains (from Terralith_v2.3.6.jar)
+- terralith:shield (from Terralith_v2.3.6.jar)
+- terralith:siberian_grove (from Terralith_v2.3.6.jar)
+- terralith:siberian_taiga (from Terralith_v2.3.6.jar)
+- terralith:skylands_winter (from Terralith_v2.3.6.jar)
+- terralith:snowy_maple_forest (from Terralith_v2.3.6.jar)
+- terralith:snowy_shield (from Terralith_v2.3.6.jar)
+- terralith:valley_clearing (from Terralith_v2.3.6.jar)
+- terralith:wintry_forest (from Terralith_v2.3.6.jar)
+- terralith:wintry_lowlands (from Terralith_v2.3.6.jar)
+
+#terralith:all_terralith_biomes
+- terralith:desert_canyon (from Terralith_v2.3.6.jar)
+- terralith:cave/andesite_caves (from Terralith_v2.3.6.jar)
+- terralith:cave/crystal_caves (from Terralith_v2.3.6.jar)
+- terralith:cave/deep_caves (from Terralith_v2.3.6.jar)
+- terralith:cave/desert_caves (from Terralith_v2.3.6.jar)
+- terralith:cave/diorite_caves (from Terralith_v2.3.6.jar)
+- terralith:cave/frostfire_caves (from Terralith_v2.3.6.jar)
+- terralith:cave/fungal_caves (from Terralith_v2.3.6.jar)
+- terralith:cave/granite_caves (from Terralith_v2.3.6.jar)
+- terralith:cave/ice_caves (from Terralith_v2.3.6.jar)
+- terralith:cave/infested_caves (from Terralith_v2.3.6.jar)
+- terralith:cave/mantle_caves (from Terralith_v2.3.6.jar)
+- terralith:cave/thermal_caves (from Terralith_v2.3.6.jar)
+- terralith:cave/tuff_caves (from Terralith_v2.3.6.jar)
+- terralith:alpha_islands_winter (from Terralith_v2.3.6.jar)
+- terralith:alpha_islands (from Terralith_v2.3.6.jar)
+- terralith:alpine_grove (from Terralith_v2.3.6.jar)
+- terralith:alpine_highlands (from Terralith_v2.3.6.jar)
+- terralith:amethyst_canyon (from Terralith_v2.3.6.jar)
+- terralith:amethyst_rainforest (from Terralith_v2.3.6.jar)
+- terralith:ancient_sands (from Terralith_v2.3.6.jar)
+- terralith:arid_highlands (from Terralith_v2.3.6.jar)
+- terralith:ashen_savanna (from Terralith_v2.3.6.jar)
+- terralith:basalt_cliffs (from Terralith_v2.3.6.jar)
+- terralith:birch_taiga (from Terralith_v2.3.6.jar)
+- terralith:blooming_plateau (from Terralith_v2.3.6.jar)
+- terralith:blooming_valley (from Terralith_v2.3.6.jar)
+- terralith:brushland (from Terralith_v2.3.6.jar)
+- terralith:bryce_canyon (from Terralith_v2.3.6.jar)
+- terralith:caldera (from Terralith_v2.3.6.jar)
+- terralith:cloud_forest (from Terralith_v2.3.6.jar)
+- terralith:cold_shrubland (from Terralith_v2.3.6.jar)
+- terralith:desert_oasis (from Terralith_v2.3.6.jar)
+- terralith:desert_spires (from Terralith_v2.3.6.jar)
+- terralith:emerald_peaks (from Terralith_v2.3.6.jar)
+- terralith:forested_highlands (from Terralith_v2.3.6.jar)
+- terralith:fractured_savanna (from Terralith_v2.3.6.jar)
+- terralith:frozen_cliffs (from Terralith_v2.3.6.jar)
+- terralith:glacial_chasm (from Terralith_v2.3.6.jar)
+- terralith:granite_cliffs (from Terralith_v2.3.6.jar)
+- terralith:gravel_beach (from Terralith_v2.3.6.jar)
+- terralith:gravel_desert (from Terralith_v2.3.6.jar)
+- terralith:haze_mountain (from Terralith_v2.3.6.jar)
+- terralith:highlands (from Terralith_v2.3.6.jar)
+- terralith:hot_shrubland (from Terralith_v2.3.6.jar)
+- terralith:ice_marsh (from Terralith_v2.3.6.jar)
+- terralith:jungle_mountains (from Terralith_v2.3.6.jar)
+- terralith:lavender_forest (from Terralith_v2.3.6.jar)
+- terralith:lavender_valley (from Terralith_v2.3.6.jar)
+- terralith:lush_valley (from Terralith_v2.3.6.jar)
+- terralith:mirage_isles (from Terralith_v2.3.6.jar)
+- terralith:moonlight_grove (from Terralith_v2.3.6.jar)
+- terralith:moonlight_valley (from Terralith_v2.3.6.jar)
+- terralith:mountain_steppe (from Terralith_v2.3.6.jar)
+- terralith:orchid_swamp (from Terralith_v2.3.6.jar)
+- terralith:painted_mountains (from Terralith_v2.3.6.jar)
+- terralith:red_oasis (from Terralith_v2.3.6.jar)
+- terralith:rocky_jungle (from Terralith_v2.3.6.jar)
+- terralith:rocky_mountains (from Terralith_v2.3.6.jar)
+- terralith:rocky_shrubland (from Terralith_v2.3.6.jar)
+- terralith:sakura_grove (from Terralith_v2.3.6.jar)
+- terralith:sakura_valley (from Terralith_v2.3.6.jar)
+- terralith:sandstone_valley (from Terralith_v2.3.6.jar)
+- terralith:savanna_badlands (from Terralith_v2.3.6.jar)
+- terralith:savanna_slopes (from Terralith_v2.3.6.jar)
+- terralith:scarlet_mountains (from Terralith_v2.3.6.jar)
+- terralith:shield_clearing (from Terralith_v2.3.6.jar)
+- terralith:shield (from Terralith_v2.3.6.jar)
+- terralith:shrubland (from Terralith_v2.3.6.jar)
+- terralith:siberian_grove (from Terralith_v2.3.6.jar)
+- terralith:siberian_taiga (from Terralith_v2.3.6.jar)
+- terralith:skylands_autumn (from Terralith_v2.3.6.jar)
+- terralith:skylands_spring (from Terralith_v2.3.6.jar)
+- terralith:skylands_summer (from Terralith_v2.3.6.jar)
+- terralith:skylands_winter (from Terralith_v2.3.6.jar)
+- terralith:skylands (from Terralith_v2.3.6.jar)
+- terralith:snowy_badlands (from Terralith_v2.3.6.jar)
+- terralith:snowy_maple_forest (from Terralith_v2.3.6.jar)
+- terralith:snowy_shield (from Terralith_v2.3.6.jar)
+- terralith:steppe (from Terralith_v2.3.6.jar)
+- terralith:stony_spires (from Terralith_v2.3.6.jar)
+- terralith:temperate_highlands (from Terralith_v2.3.6.jar)
+- terralith:tropical_jungle (from Terralith_v2.3.6.jar)
+- terralith:valley_clearing (from Terralith_v2.3.6.jar)
+- terralith:volcanic_crater (from Terralith_v2.3.6.jar)
+- terralith:volcanic_peaks (from Terralith_v2.3.6.jar)
+- terralith:warm_river (from Terralith_v2.3.6.jar)
+- terralith:warped_mesa (from Terralith_v2.3.6.jar)
+- terralith:white_cliffs (from Terralith_v2.3.6.jar)
+- terralith:white_mesa (from Terralith_v2.3.6.jar)
+- terralith:windswept_spires (from Terralith_v2.3.6.jar)
+- terralith:wintry_forest (from Terralith_v2.3.6.jar)
+- terralith:yellowstone (from Terralith_v2.3.6.jar)
+- terralith:yosemite_cliffs (from Terralith_v2.3.6.jar)
+- terralith:yosemite_lowlands (from Terralith_v2.3.6.jar)
+
+#idas:collections/idassnowy_mountains
+- minecraft:snowy_slopes (from idas_forge-1.6.0+1.19.2.jar)
+
+#c:savanna
+- terralith:arid_highlands (from Terralith_v2.3.6.jar)
+- terralith:ashen_savanna (from Terralith_v2.3.6.jar)
+- terralith:brushland (from Terralith_v2.3.6.jar)
+- terralith:fractured_savanna (from Terralith_v2.3.6.jar)
+- terralith:hot_shrubland (from Terralith_v2.3.6.jar)
+- terralith:savanna_badlands (from Terralith_v2.3.6.jar)
+- terralith:savanna_slopes (from Terralith_v2.3.6.jar)
+- terralith:shrubland (from Terralith_v2.3.6.jar)
+
+#forge:is_hot/nether
+- minecraft:nether_wastes (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:soul_sand_valley (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:crimson_forest (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:warped_forest (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:basalt_deltas (from forge-1.19.2-43.2.3-universal.jar)
+
+#ad_astra:has_structure/pygro_village_biomes
+- ad_astra:venus_wastelands (from ad_astra-forge-1.19.2-1.12.3.jar)
+
+#pneumaticcraft:has_surface_oil_lakes
+- #minecraft:is_overworld (from pneumaticcraft-repressurized-1.19.2-4.3.3-22.jar)
+
+#ad_astra:has_structure/moon_dungeon_biomes
+- ad_astra:lunar_wastelands (from ad_astra-forge-1.19.2-1.12.3.jar)
+
+#ad_astra:has_structure/pygro_tower_biomes
+- ad_astra:venus_wastelands (from ad_astra-forge-1.19.2-1.12.3.jar)
+
+#c:caves
+- terralith:cave/andesite_caves (from Terralith_v2.3.6.jar)
+- terralith:cave/crystal_caves (from Terralith_v2.3.6.jar)
+- terralith:cave/deep_caves (from Terralith_v2.3.6.jar)
+- terralith:cave/desert_caves (from Terralith_v2.3.6.jar)
+- terralith:cave/diorite_caves (from Terralith_v2.3.6.jar)
+- terralith:cave/frostfire_caves (from Terralith_v2.3.6.jar)
+- terralith:cave/fungal_caves (from Terralith_v2.3.6.jar)
+- terralith:cave/granite_caves (from Terralith_v2.3.6.jar)
+- terralith:cave/ice_caves (from Terralith_v2.3.6.jar)
+- terralith:cave/infested_caves (from Terralith_v2.3.6.jar)
+- terralith:cave/mantle_caves (from Terralith_v2.3.6.jar)
+- terralith:cave/thermal_caves (from Terralith_v2.3.6.jar)
+- terralith:cave/tuff_caves (from Terralith_v2.3.6.jar)
+- terralith:cave/underground_jungle (from Terralith_v2.3.6.jar)
+
+#c:floral
+- terralith:blooming_plateau (from Terralith_v2.3.6.jar)
+- terralith:blooming_valley (from Terralith_v2.3.6.jar)
+- terralith:orchid_swamp (from Terralith_v2.3.6.jar)
+
+#forge:is_hot/overworld
+- terralith:amethyst_canyon (from Terralith_v2.3.6.jar)
+- terralith:amethyst_rainforest (from Terralith_v2.3.6.jar)
+- terralith:ancient_sands (from Terralith_v2.3.6.jar)
+- terralith:arid_highlands (from Terralith_v2.3.6.jar)
+- terralith:ashen_savanna (from Terralith_v2.3.6.jar)
+- terralith:basalt_cliffs (from Terralith_v2.3.6.jar)
+- terralith:brushland (from Terralith_v2.3.6.jar)
+- terralith:bryce_canyon (from Terralith_v2.3.6.jar)
+- terralith:desert_canyon (from Terralith_v2.3.6.jar)
+- terralith:desert_oasis (from Terralith_v2.3.6.jar)
+- terralith:desert_spires (from Terralith_v2.3.6.jar)
+- terralith:fractured_savanna (from Terralith_v2.3.6.jar)
+- terralith:granite_cliffs (from Terralith_v2.3.6.jar)
+- terralith:hot_shrubland (from Terralith_v2.3.6.jar)
+- terralith:jungle_mountains (from Terralith_v2.3.6.jar)
+- terralith:lush_desert (from Terralith_v2.3.6.jar)
+- terralith:orchid_swamp (from Terralith_v2.3.6.jar)
+- terralith:painted_mountains (from Terralith_v2.3.6.jar)
+- terralith:red_oasis (from Terralith_v2.3.6.jar)
+- terralith:rocky_jungle (from Terralith_v2.3.6.jar)
+- terralith:sandstone_valley (from Terralith_v2.3.6.jar)
+- terralith:savanna_badlands (from Terralith_v2.3.6.jar)
+- terralith:savanna_slopes (from Terralith_v2.3.6.jar)
+- terralith:shrubland (from Terralith_v2.3.6.jar)
+- terralith:skylands_summer (from Terralith_v2.3.6.jar)
+- terralith:tropical_jungle (from Terralith_v2.3.6.jar)
+- terralith:volcanic_crater (from Terralith_v2.3.6.jar)
+- terralith:volcanic_peaks (from Terralith_v2.3.6.jar)
+- terralith:warm_river (from Terralith_v2.3.6.jar)
+- terralith:warped_mesa (from Terralith_v2.3.6.jar)
+- terralith:white_mesa (from Terralith_v2.3.6.jar)
+- terralith:cave/desert_caves (from Terralith_v2.3.6.jar)
+- terralith:cave/frostfire_caves (from Terralith_v2.3.6.jar)
+- terralith:cave/mantle_caves (from Terralith_v2.3.6.jar)
+- terralith:cave/thermal_caves (from Terralith_v2.3.6.jar)
+- terralith:cave/underground_jungle (from Terralith_v2.3.6.jar)
+- minecraft:desert (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:jungle (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:sparse_jungle (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:savanna (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:savanna_plateau (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:stony_peaks (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:warm_ocean (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:windswept_savanna (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:eroded_badlands (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:bamboo_jungle (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:mangrove_swamp (from forge-1.19.2-43.2.3-universal.jar)
+
+#idas:has_structure/byg_redwood_biomes
+- byg:redwood_thicket (from idas_forge-1.6.0+1.19.2.jar)
+
+#idas:collections/idasflower_forests
+- minecraft:flower_forest (from idas_forge-1.6.0+1.19.2.jar)
+- terralith:blooming_plateau? (from idas_forge-1.6.0+1.19.2.jar)
+- terralith:blooming_valley? (from idas_forge-1.6.0+1.19.2.jar)
+- terralith:sakura_valley? (from idas_forge-1.6.0+1.19.2.jar)
+- terralith:sakura_grove? (from idas_forge-1.6.0+1.19.2.jar)
+- byg:cherry_blossom_forest? (from idas_forge-1.6.0+1.19.2.jar)
+- byg:allium_fields? (from idas_forge-1.6.0+1.19.2.jar)
+- byg:amaranth_fields? (from idas_forge-1.6.0+1.19.2.jar)
+- byg:rose_fields? (from idas_forge-1.6.0+1.19.2.jar)
+- byg:cherry_blossom_forest? (from idas_forge-1.6.0+1.19.2.jar)
+- byg:orchard? (from idas_forge-1.6.0+1.19.2.jar)
+- biomesoplenty:cherry_blossom_grove? (from idas_forge-1.6.0+1.19.2.jar)
+- biomesoplenty:lavender_field? (from idas_forge-1.6.0+1.19.2.jar)
+- biomesoplenty:lavender_forest? (from idas_forge-1.6.0+1.19.2.jar)
+- c:flower_forests? (from idas_forge-1.6.0+1.19.2.jar)
+
+#dungeons_arise:has_structure/illager_fort_biomes
+- minecraft:snowy_taiga (from DungeonsArise-1.19.2-2.1.54-release.jar)
+- minecraft:snowy_plains (from DungeonsArise-1.19.2-2.1.54-release.jar)
+- minecraft:snowy_slopes (from DungeonsArise-1.19.2-2.1.54-release.jar)
+- #minecraft:is_taiga (from DungeonsArise-1.19.2-2.1.54-release.jar)
+
+#minecraft:has_structure/buried_treasure
+- #minecraft:is_beach (from Default)
+- #minecraft:is_beach (from Terralith_v2.3.6.jar)
+
+#idas:collections/idasnether_wastes
+- minecraft:nether_wastes (from idas_forge-1.6.0+1.19.2.jar)
+
+#idas:collections/idasspooky_forests
+- minecraft:dark_forest (from idas_forge-1.6.0+1.19.2.jar)
+- terralith:ice_marsh? (from idas_forge-1.6.0+1.19.2.jar)
+- terralith:lavender_forest? (from idas_forge-1.6.0+1.19.2.jar)
+- terralith:mirage_isles? (from idas_forge-1.6.0+1.19.2.jar)
+- terralith:moonlight_grove? (from idas_forge-1.6.0+1.19.2.jar)
+- terralith:orchid_swamp? (from idas_forge-1.6.0+1.19.2.jar)
+- terralith:rocky_shrubland? (from idas_forge-1.6.0+1.19.2.jar)
+- terralith:siberian_grove? (from idas_forge-1.6.0+1.19.2.jar)
+- terralith:siberian_taiga? (from idas_forge-1.6.0+1.19.2.jar)
+- byg:ancient_forest? (from idas_forge-1.6.0+1.19.2.jar)
+- byg:ebony_woods? (from idas_forge-1.6.0+1.19.2.jar)
+- biomesoplenty:ominous_woods? (from idas_forge-1.6.0+1.19.2.jar)
+- vampirism:vampire_forest? (from idas_forge-1.6.0+1.19.2.jar)
+- forge:spooky? (from idas_forge-1.6.0+1.19.2.jar)
+- c:spooky? (from idas_forge-1.6.0+1.19.2.jar)
+- forge:dead? (from idas_forge-1.6.0+1.19.2.jar)
+- c:dead? (from idas_forge-1.6.0+1.19.2.jar)
+
+#c:badlands
+- terralith:ancient_sands (from Terralith_v2.3.6.jar)
+- terralith:bryce_canyon (from Terralith_v2.3.6.jar)
+- terralith:painted_mountains (from Terralith_v2.3.6.jar)
+- terralith:red_oasis (from Terralith_v2.3.6.jar)
+- terralith:warped_mesa (from Terralith_v2.3.6.jar)
+- terralith:white_mesa (from Terralith_v2.3.6.jar)
+
+#idas:collections/idasnether_basalts
+- minecraft:basalt_deltas (from idas_forge-1.6.0+1.19.2.jar)
+
+#idas:collections/idascaves
+- minecraft:dripstone_caves (from idas_forge-1.6.0+1.19.2.jar)
+- minecraft:lush_caves (from idas_forge-1.6.0+1.19.2.jar)
+- terralith:cave/frostfire_caves? (from idas_forge-1.6.0+1.19.2.jar)
+- terralith:cave/ice_caves? (from idas_forge-1.6.0+1.19.2.jar)
+- terralith:cave/fungal_caves? (from idas_forge-1.6.0+1.19.2.jar)
+- terralith:cave/desert_caves? (from idas_forge-1.6.0+1.19.2.jar)
+- forge:underground? (from idas_forge-1.6.0+1.19.2.jar)
+- c:underground? (from idas_forge-1.6.0+1.19.2.jar)
+- c:caves? (from idas_forge-1.6.0+1.19.2.jar)
+
+#idas:collections/idasmushrooms
+- minecraft:mushroom_fields (from idas_forge-1.6.0+1.19.2.jar)
+- biomesoplenty:fungal_jungle? (from idas_forge-1.6.0+1.19.2.jar)
+- forge:mushroom? (from idas_forge-1.6.0+1.19.2.jar)
+- c:mushroom? (from idas_forge-1.6.0+1.19.2.jar)
+
+#idas:has_structure/redhorn_guild_biomes
+- #idas:collections/idasregular_forests (from idas_forge-1.6.0+1.19.2.jar)
+- #idas:collections/idastaigas (from idas_forge-1.6.0+1.19.2.jar)
+- #idas:collections/idasgiant_taigas (from idas_forge-1.6.0+1.19.2.jar)
+
+#minecraft:is_savanna
+- minecraft:savanna (from Default)
+- minecraft:savanna_plateau (from Default)
+- minecraft:windswept_savanna (from Default)
+
+#c:jungle
+- terralith:amethyst_canyon (from Terralith_v2.3.6.jar)
+- terralith:amethyst_rainforest (from Terralith_v2.3.6.jar)
+- terralith:jungle_mountains (from Terralith_v2.3.6.jar)
+- terralith:rocky_jungle (from Terralith_v2.3.6.jar)
+- terralith:skylands_summer (from Terralith_v2.3.6.jar)
+- terralith:tropical_jungle (from Terralith_v2.3.6.jar)
+- terralith:cave/underground_jungle (from Terralith_v2.3.6.jar)
+
+#idas:has_structure/polar_bear_den_biomes
+- #idas:collections/idassnowy_forests (from idas_forge-1.6.0+1.19.2.jar)
+- #idas:collections/idassnowy_plains (from idas_forge-1.6.0+1.19.2.jar)
+- #idas:collections/idasicy (from idas_forge-1.6.0+1.19.2.jar)
+- #idas:collections/idassnowy_mountains (from idas_forge-1.6.0+1.19.2.jar)
+
+#idas:collections/idasregular_forests
+- minecraft:forest (from idas_forge-1.6.0+1.19.2.jar)
+- byg:red_oak_forest? (from idas_forge-1.6.0+1.19.2.jar)
+- byg:temperate_rainforest? (from idas_forge-1.6.0+1.19.2.jar)
+- byg:orchard? (from idas_forge-1.6.0+1.19.2.jar)
+- byg:autumnal_forest? (from idas_forge-1.6.0+1.19.2.jar)
+- byg:cherry_blossom_forest? (from idas_forge-1.6.0+1.19.2.jar)
+- biomesoplenty:cherry_blossom_grove? (from idas_forge-1.6.0+1.19.2.jar)
+- biomesoplenty:orchard? (from idas_forge-1.6.0+1.19.2.jar)
+- biomesoplenty:seasonal_forest? (from idas_forge-1.6.0+1.19.2.jar)
+- biomesoplenty:woodland? (from idas_forge-1.6.0+1.19.2.jar)
+- biomesoplenty:old_growth_woodland? (from idas_forge-1.6.0+1.19.2.jar)
+
+#forge:is_hot
+- #forge:is_hot/overworld (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:is_hot/nether (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:is_hot/end? (from forge-1.19.2-43.2.3-universal.jar)
+
+#dungeons_arise:has_structure/thornborn_towers_biomes
+- #minecraft:is_forest (from DungeonsArise-1.19.2-2.1.54-release.jar)
+
+#minecraft:has_structure/igloo
+- minecraft:snowy_taiga (from Default)
+- minecraft:snowy_plains (from Default)
+- minecraft:snowy_slopes (from Default)
+- minecraft:snowy_taiga (from Terralith_v2.3.6.jar)
+- minecraft:snowy_plains (from Terralith_v2.3.6.jar)
+- minecraft:snowy_slopes (from Terralith_v2.3.6.jar)
+- terralith:wintry_forest (from Terralith_v2.3.6.jar)
+- terralith:snowy_badlands (from Terralith_v2.3.6.jar)
+
+#c:wasteland
+- terralith:ashen_savanna (from Terralith_v2.3.6.jar)
+- terralith:basalt_cliffs (from Terralith_v2.3.6.jar)
+- terralith:caldera (from Terralith_v2.3.6.jar)
+- terralith:gravel_desert (from Terralith_v2.3.6.jar)
+- terralith:ice_marsh (from Terralith_v2.3.6.jar)
+- terralith:snowy_badlands (from Terralith_v2.3.6.jar)
+- terralith:volcanic_crater (from Terralith_v2.3.6.jar)
+- terralith:volcanic_peaks (from Terralith_v2.3.6.jar)
+- terralith:yellowstone (from Terralith_v2.3.6.jar)
+
+#minecraft:has_structure/shipwreck_beached
+- #minecraft:is_beach (from Default)
+- #minecraft:is_beach (from Terralith_v2.3.6.jar)
+
+#dungeons_arise:has_structure/infested_temple_biomes
+- #minecraft:is_taiga (from DungeonsArise-1.19.2-2.1.54-release.jar)
+- #minecraft:is_hill (from DungeonsArise-1.19.2-2.1.54-release.jar)
+- #minecraft:is_mountain (from DungeonsArise-1.19.2-2.1.54-release.jar)
+
+#idas:collections/idasdeep_oceans
+- #minecraft:is_deep_ocean (from idas_forge-1.6.0+1.19.2.jar)
+
+#dungeons_arise:has_structure/small_blimp_biomes
+- #minecraft:is_jungle (from DungeonsArise-1.19.2-2.1.54-release.jar)
+- #minecraft:is_forest (from DungeonsArise-1.19.2-2.1.54-release.jar)
+- #minecraft:is_taiga (from DungeonsArise-1.19.2-2.1.54-release.jar)
+- minecraft:desert (from DungeonsArise-1.19.2-2.1.54-release.jar)
+- minecraft:plains (from DungeonsArise-1.19.2-2.1.54-release.jar)
+- minecraft:snowy_plains (from DungeonsArise-1.19.2-2.1.54-release.jar)
+- minecraft:sunflower_plains (from DungeonsArise-1.19.2-2.1.54-release.jar)
+- minecraft:savanna (from DungeonsArise-1.19.2-2.1.54-release.jar)
+- minecraft:savanna_plateau (from DungeonsArise-1.19.2-2.1.54-release.jar)
+- minecraft:windswept_savanna (from DungeonsArise-1.19.2-2.1.54-release.jar)
+
+#idas:has_structure/treetop_tavern_biomes
+- #idas:collections/idasjungles (from idas_forge-1.6.0+1.19.2.jar)
+
+#idas:has_structure/orange_desert_biomes
+- #idas:collections/idasorange_deserts (from idas_forge-1.6.0+1.19.2.jar)
+
+#minecraft:allows_surface_slime_spawns
+- minecraft:swamp (from Default)
+- minecraft:mangrove_swamp (from Default)
+
+#c:deep_ocean
+
+#forge:is_plains
+- terralith:alpine_highlands (from Terralith_v2.3.6.jar)
+- terralith:highlands (from Terralith_v2.3.6.jar)
+- terralith:rocky_shrubland (from Terralith_v2.3.6.jar)
+- minecraft:plains (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:snowy_plains (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:meadow (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:sunflower_plains (from forge-1.19.2-43.2.3-universal.jar)
+
+#minecraft:required_ocean_monument_surrounding
+- #minecraft:is_ocean (from Default)
+- #minecraft:is_river (from Default)
+
+#minecolonies:has_structure/medieval_spruce_colony
+- minecraft:plains (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- #forge:is_plains (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:sunflower_plains (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:snowy_plains (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:forest (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- #minecraft:is_forest (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:flower_forest (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:windswept_hills (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:windswept_gravelly_hills (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:windswept_forest (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:meadow (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:snowy_slopes (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:frozen_peaks (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:jagged_peaks (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:stony_peaks (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- #forge:is_peak (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:river (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:frozen_river (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:beach (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- #minecraft:is_beach (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:snowy_beach (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:stony_shore (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:mushroom_fields (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:grove (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+
+#dungeons_arise:has_structure/illager_windmill_biomes
+- minecraft:plains (from DungeonsArise-1.19.2-2.1.54-release.jar)
+- minecraft:meadow (from DungeonsArise-1.19.2-2.1.54-release.jar)
+- minecraft:sunflower_plains (from DungeonsArise-1.19.2-2.1.54-release.jar)
+
+#minecraft:has_structure/ocean_monument
+- #minecraft:is_deep_ocean (from Default)
+
+#dungeons_arise:has_structure/coliseum_biomes
+- minecraft:plains (from DungeonsArise-1.19.2-2.1.54-release.jar)
+- minecraft:meadow (from DungeonsArise-1.19.2-2.1.54-release.jar)
+- minecraft:sunflower_plains (from DungeonsArise-1.19.2-2.1.54-release.jar)
+
+#idas:has_structure/dark_oak_biomes
+- #idas:collections/idasdark_oak_forests (from idas_forge-1.6.0+1.19.2.jar)
+
+#forge:is_sandy
+- terralith:ancient_sands (from Terralith_v2.3.6.jar)
+- terralith:desert_canyon (from Terralith_v2.3.6.jar)
+- terralith:desert_oasis (from Terralith_v2.3.6.jar)
+- terralith:lush_desert (from Terralith_v2.3.6.jar)
+- terralith:sandstone_valley (from Terralith_v2.3.6.jar)
+- terralith:snowy_badlands (from Terralith_v2.3.6.jar)
+- minecraft:desert (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:beach (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:badlands (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:wooded_badlands (from forge-1.19.2-43.2.3-universal.jar)
+
+#minecraft:has_structure/ruined_portal_jungle
+- #minecraft:is_jungle (from Default)
+- #minecraft:is_jungle (from Terralith_v2.3.6.jar)
+
+#idas:collections/idasrivers
+- minecraft:river (from idas_forge-1.6.0+1.19.2.jar)
+
+#idas:has_structure/vanilla_desert_biomes
+- #idas:collections/idasvanilla_deserts (from idas_forge-1.6.0+1.19.2.jar)
+
+#tetra:has_structure/forged_ruins
+- #minecraft:is_mountain (from tetra-1.19.2-5.0.2.jar)
+- #minecraft:is_taiga (from tetra-1.19.2-5.0.2.jar)
+
+#c:climate_cold
+- terralith:alpha_islands_winter (from Terralith_v2.3.6.jar)
+- terralith:alpine_grove (from Terralith_v2.3.6.jar)
+- terralith:alpine_highlands (from Terralith_v2.3.6.jar)
+- terralith:birch_taiga (from Terralith_v2.3.6.jar)
+- terralith:caldera (from Terralith_v2.3.6.jar)
+- terralith:cloud_forest (from Terralith_v2.3.6.jar)
+- terralith:cold_shrubland (from Terralith_v2.3.6.jar)
+- terralith:emerald_peaks (from Terralith_v2.3.6.jar)
+- terralith:forested_highlands (from Terralith_v2.3.6.jar)
+- terralith:frozen_cliffs (from Terralith_v2.3.6.jar)
+- terralith:glacial_chasm (from Terralith_v2.3.6.jar)
+- terralith:gravel_desert (from Terralith_v2.3.6.jar)
+- terralith:haze_mountain (from Terralith_v2.3.6.jar)
+- terralith:highlands (from Terralith_v2.3.6.jar)
+- terralith:ice_marsh (from Terralith_v2.3.6.jar)
+- terralith:rocky_mountains (from Terralith_v2.3.6.jar)
+- terralith:rocky_shrubland (from Terralith_v2.3.6.jar)
+- terralith:scarlet_mountains (from Terralith_v2.3.6.jar)
+- terralith:shield (from Terralith_v2.3.6.jar)
+- terralith:shield_clearing (from Terralith_v2.3.6.jar)
+- terralith:siberian_grove (from Terralith_v2.3.6.jar)
+- terralith:siberian_taiga (from Terralith_v2.3.6.jar)
+- terralith:skylands_winter (from Terralith_v2.3.6.jar)
+- terralith:snowy_badlands (from Terralith_v2.3.6.jar)
+- terralith:snowy_maple_forest (from Terralith_v2.3.6.jar)
+- terralith:snowy_shield (from Terralith_v2.3.6.jar)
+- terralith:valley_clearing (from Terralith_v2.3.6.jar)
+- terralith:wintry_forest (from Terralith_v2.3.6.jar)
+- terralith:wintry_lowlands (from Terralith_v2.3.6.jar)
+- terralith:yellowstone (from Terralith_v2.3.6.jar)
+- terralith:cave/frostfire_caves (from Terralith_v2.3.6.jar)
+- terralith:cave/ice_caves (from Terralith_v2.3.6.jar)
+
+#quark:stoneling_pathfinding
+- quark:glimmering_weald (from Quark-3.4-393.jar)
+
+#minecraft:plays_underwater_music
+- #minecraft:is_ocean (from Default)
+- #minecraft:is_river (from Default)
+
+#dungeons_arise:has_structure/typhon_biomes
+- #minecraft:is_ocean (from DungeonsArise-1.19.2-2.1.54-release.jar)
+
+#idas:collections/idasbeaches
+- #minecraft:is_beach (from idas_forge-1.6.0+1.19.2.jar)
+- forge:beach? (from idas_forge-1.6.0+1.19.2.jar)
+- c:beach? (from idas_forge-1.6.0+1.19.2.jar)
+
+#minecraft:has_structure/desert_pyramid
+- minecraft:desert (from Default)
+- minecraft:desert (from Terralith_v2.3.6.jar)
+- terralith:desert_oasis (from Terralith_v2.3.6.jar)
+- terralith:sandstone_valley (from Terralith_v2.3.6.jar)
+- terralith:desert_spires (from Terralith_v2.3.6.jar)
+
+#terralith:has_structure/underground_cabin
+- minecraft:lush_caves (from Terralith_v2.3.6.jar)
+- terralith:cave/underground_jungle (from Terralith_v2.3.6.jar)
+
+#minecolonies:has_structure/caledonia_colony
+- minecraft:plains (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- #forge:is_plains (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:sunflower_plains (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:snowy_plains (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:forest (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- #minecraft:is_forest (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:flower_forest (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:birch_forest (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:old_growth_birch_forest (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:windswept_hills (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:windswept_gravelly_hills (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:windswept_forest (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:meadow (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:snowy_slopes (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:frozen_peaks (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:jagged_peaks (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:stony_peaks (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- #forge:is_peak (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:river (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:frozen_river (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:beach (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- #minecraft:is_beach (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:snowy_beach (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:stony_shore (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:mushroom_fields (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+
+#dungeons_arise:has_structure/mushroom_mines_biomes
+- #minecraft:is_forest (from DungeonsArise-1.19.2-2.1.54-release.jar)
+
+#dungeons_arise:has_structure/heavenly_challenger_biomes
+- #minecraft:is_jungle (from DungeonsArise-1.19.2-2.1.54-release.jar)
+- #minecraft:is_forest (from DungeonsArise-1.19.2-2.1.54-release.jar)
+- minecraft:desert (from DungeonsArise-1.19.2-2.1.54-release.jar)
+- minecraft:plains (from DungeonsArise-1.19.2-2.1.54-release.jar)
+- minecraft:sunflower_plains (from DungeonsArise-1.19.2-2.1.54-release.jar)
+- minecraft:savanna (from DungeonsArise-1.19.2-2.1.54-release.jar)
+- minecraft:savanna_plateau (from DungeonsArise-1.19.2-2.1.54-release.jar)
+- minecraft:end_midlands (from DungeonsArise-1.19.2-2.1.54-release.jar)
+- minecraft:end_highlands (from DungeonsArise-1.19.2-2.1.54-release.jar)
+
+#forge:is_plateau
+- terralith:alpine_highlands (from Terralith_v2.3.6.jar)
+- terralith:arid_highlands (from Terralith_v2.3.6.jar)
+- terralith:blooming_plateau (from Terralith_v2.3.6.jar)
+- terralith:bryce_canyon (from Terralith_v2.3.6.jar)
+- terralith:highlands (from Terralith_v2.3.6.jar)
+- terralith:savanna_badlands (from Terralith_v2.3.6.jar)
+- terralith:shield (from Terralith_v2.3.6.jar)
+- terralith:shield_clearing (from Terralith_v2.3.6.jar)
+- terralith:steppe (from Terralith_v2.3.6.jar)
+- terralith:white_mesa (from Terralith_v2.3.6.jar)
+- terralith:yellowstone (from Terralith_v2.3.6.jar)
+- terralith:yosemite_cliffs (from Terralith_v2.3.6.jar)
+- minecraft:savanna_plateau (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:wooded_badlands (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:meadow (from forge-1.19.2-43.2.3-universal.jar)
+
+#minecolonies:has_structure/medieval_oak_colony
+- minecraft:plains (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- #forge:is_plains (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:sunflower_plains (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:snowy_plains (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:forest (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- #minecraft:is_forest (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:flower_forest (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:windswept_hills (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:windswept_gravelly_hills (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:windswept_forest (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:meadow (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:snowy_slopes (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:frozen_peaks (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:jagged_peaks (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:stony_peaks (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- #forge:is_peak (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:river (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:frozen_river (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:beach (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- #minecraft:is_beach (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:snowy_beach (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:stony_shore (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+- minecraft:mushroom_fields (from minecolonies-1.19.2-1.0.1265-ALPHA.jar)
+
+#forge:is_lush
+- terralith:white_cliffs (from Terralith_v2.3.6.jar)
+- terralith:cave/underground_jungle (from Terralith_v2.3.6.jar)
+- minecraft:lush_caves (from forge-1.19.2-43.2.3-universal.jar)
+
+#idas:collections/idasorange_deserts
+- biomesoplenty:lush_desert? (from idas_forge-1.6.0+1.19.2.jar)
+
+#idas:has_structure/apothecary_abode_biomes
+- #idas:collections/idasspooky_forests (from idas_forge-1.6.0+1.19.2.jar)
+- #idas:collections/idasgiant_trees (from idas_forge-1.6.0+1.19.2.jar)
+
+#forge:is_dry/overworld
+- terralith:alpine_highlands (from Terralith_v2.3.6.jar)
+- terralith:ancient_sands (from Terralith_v2.3.6.jar)
+- terralith:arid_highlands (from Terralith_v2.3.6.jar)
+- terralith:ashen_savanna (from Terralith_v2.3.6.jar)
+- terralith:basalt_cliffs (from Terralith_v2.3.6.jar)
+- terralith:brushland (from Terralith_v2.3.6.jar)
+- terralith:bryce_canyon (from Terralith_v2.3.6.jar)
+- terralith:desert_canyon (from Terralith_v2.3.6.jar)
+- terralith:desert_spires (from Terralith_v2.3.6.jar)
+- terralith:hot_shrubland (from Terralith_v2.3.6.jar)
+- terralith:lush_desert (from Terralith_v2.3.6.jar)
+- terralith:painted_mountains (from Terralith_v2.3.6.jar)
+- terralith:rocky_shrubland (from Terralith_v2.3.6.jar)
+- terralith:sandstone_valley (from Terralith_v2.3.6.jar)
+- terralith:savanna_badlands (from Terralith_v2.3.6.jar)
+- terralith:savanna_slopes (from Terralith_v2.3.6.jar)
+- terralith:shrubland (from Terralith_v2.3.6.jar)
+- terralith:siberian_taiga (from Terralith_v2.3.6.jar)
+- terralith:snowy_badlands (from Terralith_v2.3.6.jar)
+- terralith:stony_spires (from Terralith_v2.3.6.jar)
+- terralith:valley_clearing (from Terralith_v2.3.6.jar)
+- terralith:warped_mesa (from Terralith_v2.3.6.jar)
+- terralith:white_mesa (from Terralith_v2.3.6.jar)
+- terralith:cave/desert_caves (from Terralith_v2.3.6.jar)
+- minecraft:desert (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:badlands (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:wooded_badlands (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:windswept_savanna (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:eroded_badlands (from forge-1.19.2-43.2.3-universal.jar)
+
+#idas:collections/idasblack_deserts
+- biomesoplenty:burnt_forest? (from idas_forge-1.6.0+1.19.2.jar)
+
+#minecraft:has_structure/woodland_mansion
+- minecraft:dark_forest (from Default)
+- minecraft:dark_forest (from Terralith_v2.3.6.jar)
+- terralith:sakura_grove (from Terralith_v2.3.6.jar)
+
+#pneumaticcraft:has_underground_oil_lakes
+- #minecraft:is_overworld (from pneumaticcraft-repressurized-1.19.2-4.3.3-22.jar)
+
+#forge:is_void
+- minecraft:the_void (from forge-1.19.2-43.2.3-universal.jar)
+
+#idas:collections/idasnether_crimson_forests
+- minecraft:crimson_forest (from idas_forge-1.6.0+1.19.2.jar)
+
+#c:mountain_peak
+- terralith:emerald_peaks (from Terralith_v2.3.6.jar)
+- terralith:fractured_savanna (from Terralith_v2.3.6.jar)
+- terralith:frozen_cliffs (from Terralith_v2.3.6.jar)
+- terralith:mirage_isles (from Terralith_v2.3.6.jar)
+- terralith:volcanic_crater (from Terralith_v2.3.6.jar)
+- terralith:volcanic_peaks (from Terralith_v2.3.6.jar)
+- terralith:warped_mesa (from Terralith_v2.3.6.jar)
+
+#idas:has_structure/windswept_desert_biomes
+- #idas:collections/idaswindswept_deserts (from idas_forge-1.6.0+1.19.2.jar)
+
+#minecraft:has_structure/ocean_ruin_warm
+- minecraft:lukewarm_ocean (from Default)
+- minecraft:warm_ocean (from Default)
+- minecraft:deep_lukewarm_ocean (from Default)
+
+#idas:has_structure/spruce_biomes
+- #idas:collections/idastaigas (from idas_forge-1.6.0+1.19.2.jar)
+
+#idas:has_structure/ancient_mines_biomes
+- #idas:collections/idashills (from idas_forge-1.6.0+1.19.2.jar)
+- #idas:collections/idasrocky_mountains (from idas_forge-1.6.0+1.19.2.jar)
+- #idas:collections/idasmountains (from idas_forge-1.6.0+1.19.2.jar)
+
+#idas:collections/idasany_forests
+- #minecraft:is_forest (from idas_forge-1.6.0+1.19.2.jar)
+- forge:forest? (from idas_forge-1.6.0+1.19.2.jar)
+- c:forest? (from idas_forge-1.6.0+1.19.2.jar)
+
+#idas:has_structure/bopmohogany_biomes
+- biomesoplenty:rainforest (from idas_forge-1.6.0+1.19.2.jar)
+
+#terralith:has_structure/fortified_village
+- minecraft:plains (from Terralith_v2.3.6.jar)
+- minecraft:sunflower_plains (from Terralith_v2.3.6.jar)
+- terralith:temperate_highlands (from Terralith_v2.3.6.jar)
+- terralith:forested_highlands (from Terralith_v2.3.6.jar)
+- terralith:alpine_highlands (from Terralith_v2.3.6.jar)
+- terralith:brushland (from Terralith_v2.3.6.jar)
+- minecraft:meadow (from Terralith_v2.3.6.jar)
+
+#forge:is_mushroom
+- terralith:mirage_isles (from Terralith_v2.3.6.jar)
+- terralith:cave/fungal_caves (from Terralith_v2.3.6.jar)
+- minecraft:mushroom_fields (from forge-1.19.2-43.2.3-universal.jar)
+- quark:glimmering_weald (from Quark-3.4-393.jar)
+
+#c:flower_forests
+- terralith:cloud_forest (from Terralith_v2.3.6.jar)
+- terralith:lavender_forest (from Terralith_v2.3.6.jar)
+- terralith:lavender_valley (from Terralith_v2.3.6.jar)
+- terralith:moonlight_grove (from Terralith_v2.3.6.jar)
+- terralith:moonlight_valley (from Terralith_v2.3.6.jar)
+- terralith:sakura_grove (from Terralith_v2.3.6.jar)
+- terralith:sakura_valley (from Terralith_v2.3.6.jar)
+- terralith:skylands_spring (from Terralith_v2.3.6.jar)
+
+#dungeons_arise:has_structure/wishing_well_biomes
+- minecraft:plains (from DungeonsArise-1.19.2-2.1.54-release.jar)
+- minecraft:meadow (from DungeonsArise-1.19.2-2.1.54-release.jar)
+- minecraft:sunflower_plains (from DungeonsArise-1.19.2-2.1.54-release.jar)
+
+#minecraft:is_overworld
+- minecraft:mushroom_fields (from Default)
+- minecraft:deep_frozen_ocean (from Default)
+- minecraft:frozen_ocean (from Default)
+- minecraft:deep_cold_ocean (from Default)
+- minecraft:cold_ocean (from Default)
+- minecraft:deep_ocean (from Default)
+- minecraft:ocean (from Default)
+- minecraft:deep_lukewarm_ocean (from Default)
+- minecraft:lukewarm_ocean (from Default)
+- minecraft:warm_ocean (from Default)
+- minecraft:stony_shore (from Default)
+- minecraft:swamp (from Default)
+- minecraft:mangrove_swamp (from Default)
+- minecraft:snowy_slopes (from Default)
+- minecraft:snowy_plains (from Default)
+- minecraft:snowy_beach (from Default)
+- minecraft:windswept_gravelly_hills (from Default)
+- minecraft:grove (from Default)
+- minecraft:windswept_hills (from Default)
+- minecraft:snowy_taiga (from Default)
+- minecraft:windswept_forest (from Default)
+- minecraft:taiga (from Default)
+- minecraft:plains (from Default)
+- minecraft:meadow (from Default)
+- minecraft:beach (from Default)
+- minecraft:forest (from Default)
+- minecraft:old_growth_spruce_taiga (from Default)
+- minecraft:flower_forest (from Default)
+- minecraft:birch_forest (from Default)
+- minecraft:dark_forest (from Default)
+- minecraft:savanna_plateau (from Default)
+- minecraft:savanna (from Default)
+- minecraft:jungle (from Default)
+- minecraft:badlands (from Default)
+- minecraft:desert (from Default)
+- minecraft:wooded_badlands (from Default)
+- minecraft:jagged_peaks (from Default)
+- minecraft:stony_peaks (from Default)
+- minecraft:frozen_river (from Default)
+- minecraft:river (from Default)
+- minecraft:ice_spikes (from Default)
+- minecraft:old_growth_pine_taiga (from Default)
+- minecraft:sunflower_plains (from Default)
+- minecraft:old_growth_birch_forest (from Default)
+- minecraft:sparse_jungle (from Default)
+- minecraft:bamboo_jungle (from Default)
+- minecraft:eroded_badlands (from Default)
+- minecraft:windswept_savanna (from Default)
+- minecraft:frozen_peaks (from Default)
+- minecraft:dripstone_caves (from Default)
+- minecraft:lush_caves (from Default)
+- minecraft:deep_dark (from Default)
+- #terralith:all_terralith_biomes (from Terralith_v2.3.6.jar)
+- quark:glimmering_weald (from Quark-3.4-393.jar)
+
+#minecraft:has_structure/village_savanna
+- minecraft:savanna (from Default)
+- minecraft:savanna (from Terralith_v2.3.6.jar)
+- terralith:arid_highlands (from Terralith_v2.3.6.jar)
+- terralith:hot_shrubland (from Terralith_v2.3.6.jar)
+- terralith:savanna_slopes (from Terralith_v2.3.6.jar)
+- terralith:savanna_badlands (from Terralith_v2.3.6.jar)
+
+#minecraft:without_patrol_spawns
+- minecraft:mushroom_fields (from Default)
+
+#c:mountain_slope
+- terralith:alpine_grove (from Terralith_v2.3.6.jar)
+- terralith:amethyst_canyon (from Terralith_v2.3.6.jar)
+- terralith:ashen_savanna (from Terralith_v2.3.6.jar)
+- terralith:blooming_valley (from Terralith_v2.3.6.jar)
+- terralith:caldera (from Terralith_v2.3.6.jar)
+- terralith:glacial_chasm (from Terralith_v2.3.6.jar)
+- terralith:jungle_mountains (from Terralith_v2.3.6.jar)
+- terralith:lavender_valley (from Terralith_v2.3.6.jar)
+- terralith:moonlight_valley (from Terralith_v2.3.6.jar)
+- terralith:rocky_jungle (from Terralith_v2.3.6.jar)
+- terralith:rocky_mountains (from Terralith_v2.3.6.jar)
+- terralith:sakura_valley (from Terralith_v2.3.6.jar)
+- terralith:sandstone_valley (from Terralith_v2.3.6.jar)
+- terralith:savanna_slopes (from Terralith_v2.3.6.jar)
+- terralith:siberian_grove (from Terralith_v2.3.6.jar)
+- terralith:stony_spires (from Terralith_v2.3.6.jar)
+
+#minecraft:has_structure/village_taiga
+- minecraft:taiga (from Default)
+- minecraft:taiga (from Terralith_v2.3.6.jar)
+- terralith:highlands (from Terralith_v2.3.6.jar)
+- terralith:forested_highlands (from Terralith_v2.3.6.jar)
+- terralith:siberian_taiga (from Terralith_v2.3.6.jar)
+- terralith:shield (from Terralith_v2.3.6.jar)
+- terralith:shield_clearing (from Terralith_v2.3.6.jar)
+- terralith:cold_shrubland (from Terralith_v2.3.6.jar)
+- terralith:rocky_shrubland (from Terralith_v2.3.6.jar)
+- terralith:lush_valley (from Terralith_v2.3.6.jar)
+- terralith:alpine_highlands (from Terralith_v2.3.6.jar)
+
+#idas:collections/idasend_voids
+- minecraft:small_end_islands (from idas_forge-1.6.0+1.19.2.jar)
+- minecraft:end_barrens (from idas_forge-1.6.0+1.19.2.jar)
+
+#dungeons_arise:has_structure/plague_asylum_biomes
+- #minecraft:is_forest (from DungeonsArise-1.19.2-2.1.54-release.jar)
+
+#idas:collections/idasgiant_trees
+- minecraft:old_growth_pine_taiga (from idas_forge-1.6.0+1.19.2.jar)
+- minecraft:old_growth_spruce_taiga (from idas_forge-1.6.0+1.19.2.jar)
+- minecraft:bamboo_jungle (from idas_forge-1.6.0+1.19.2.jar)
+- minecraft:jungle (from idas_forge-1.6.0+1.19.2.jar)
+- terralith:amethyst_rainforest? (from idas_forge-1.6.0+1.19.2.jar)
+- terralith:forested_highlands? (from idas_forge-1.6.0+1.19.2.jar)
+- terralith:jungle_mountains? (from idas_forge-1.6.0+1.19.2.jar)
+- terralith:rocky_jungle? (from idas_forge-1.6.0+1.19.2.jar)
+- byg:orchard? (from idas_forge-1.6.0+1.19.2.jar)
+- byg:cika_woods? (from idas_forge-1.6.0+1.19.2.jar)
+- byg:coniferous_forest? (from idas_forge-1.6.0+1.19.2.jar)
+- byg:coniferous_forest_hills? (from idas_forge-1.6.0+1.19.2.jar)
+- byg:cherry_blossom_forest? (from idas_forge-1.6.0+1.19.2.jar)
+- byg:tropical_rainforest? (from idas_forge-1.6.0+1.19.2.jar)
+- byg:tropical_rainforest_hills? (from idas_forge-1.6.0+1.19.2.jar)
+- byg:redwood_thicket? (from idas_forge-1.6.0+1.19.2.jar)
+- byg:ebony_woods? (from idas_forge-1.6.0+1.19.2.jar)
+- byg:ebony_hills? (from idas_forge-1.6.0+1.19.2.jar)
+- biomesoplenty:redwood_forest? (from idas_forge-1.6.0+1.19.2.jar)
+- biomesoplenty:coniferous_forest? (from idas_forge-1.6.0+1.19.2.jar)
+
+#minecraft:has_closer_water_fog
+- minecraft:swamp (from Default)
+- minecraft:mangrove_swamp (from Default)
+
+#alexsmobs:spawns_soul_gusters
+- minecraft:soul_sand_valley (from alexsmobs-1.21.1.jar)
+
+#idas:collections/idasoceans
+- #minecraft:is_ocean (from idas_forge-1.6.0+1.19.2.jar)
+- #minecraft:is_deep_ocean (from idas_forge-1.6.0+1.19.2.jar)
+- forge:ocean? (from idas_forge-1.6.0+1.19.2.jar)
+- c:ocean? (from idas_forge-1.6.0+1.19.2.jar)
+
+#supplementaries:has_wild_flax
+- #minecraft:is_overworld (from Supplementaries Generated Pack)
+
+#minecraft:without_wandering_trader_spawns
+- minecraft:the_void (from Default)
+
+#minecraft:has_structure/ruined_portal_desert
+- minecraft:desert (from Default)
+- minecraft:desert (from Terralith_v2.3.6.jar)
+- terralith:sandstone_valley (from Terralith_v2.3.6.jar)
+- terralith:desert_spires (from Terralith_v2.3.6.jar)
+- terralith:desert_oasis (from Terralith_v2.3.6.jar)
+
+#forge:is_dense
+- #forge:is_dense/overworld (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:is_dense/nether? (from forge-1.19.2-43.2.3-universal.jar)
+- #forge:is_dense/end? (from forge-1.19.2-43.2.3-universal.jar)
+
+#minecraft:has_structure/ruined_portal_swamp
+- minecraft:swamp (from Default)
+- minecraft:mangrove_swamp (from Default)
+- minecraft:swamp (from Terralith_v2.3.6.jar)
+- terralith:orchid_swamp (from Terralith_v2.3.6.jar)
+- terralith:ice_marsh (from Terralith_v2.3.6.jar)
+
+#idas:collections/idasend_island_land
+- minecraft:end_highlands (from idas_forge-1.6.0+1.19.2.jar)
+- minecraft:end_midlands (from idas_forge-1.6.0+1.19.2.jar)
+- forge:end? (from idas_forge-1.6.0+1.19.2.jar)
+- c:in_the_end? (from idas_forge-1.6.0+1.19.2.jar)
+- c:end_islands? (from idas_forge-1.6.0+1.19.2.jar)
+
+#minecraft:spawns_cold_variant_frogs
+- minecraft:snowy_plains (from Default)
+- minecraft:ice_spikes (from Default)
+- minecraft:frozen_peaks (from Default)
+- minecraft:jagged_peaks (from Default)
+- minecraft:snowy_slopes (from Default)
+- minecraft:frozen_ocean (from Default)
+- minecraft:deep_frozen_ocean (from Default)
+- minecraft:grove (from Default)
+- minecraft:deep_dark (from Default)
+- minecraft:frozen_river (from Default)
+- minecraft:snowy_taiga (from Default)
+- minecraft:snowy_beach (from Default)
+- #minecraft:is_end (from Default)
+- minecraft:snowy_plains (from Terralith_v2.3.6.jar)
+- minecraft:ice_spikes (from Terralith_v2.3.6.jar)
+- minecraft:frozen_peaks (from Terralith_v2.3.6.jar)
+- minecraft:jagged_peaks (from Terralith_v2.3.6.jar)
+- minecraft:snowy_slopes (from Terralith_v2.3.6.jar)
+- minecraft:frozen_ocean (from Terralith_v2.3.6.jar)
+- minecraft:deep_frozen_ocean (from Terralith_v2.3.6.jar)
+- minecraft:grove (from Terralith_v2.3.6.jar)
+- minecraft:deep_dark (from Terralith_v2.3.6.jar)
+- minecraft:frozen_river (from Terralith_v2.3.6.jar)
+- minecraft:snowy_taiga (from Terralith_v2.3.6.jar)
+- minecraft:snowy_beach (from Terralith_v2.3.6.jar)
+- #minecraft:is_end (from Terralith_v2.3.6.jar)
+- terralith:alpha_islands_winter (from Terralith_v2.3.6.jar)
+- terralith:alpine_grove (from Terralith_v2.3.6.jar)
+- terralith:emerald_peaks (from Terralith_v2.3.6.jar)
+- terralith:frozen_cliffs (from Terralith_v2.3.6.jar)
+- terralith:glacial_chasm (from Terralith_v2.3.6.jar)
+- terralith:gravel_desert (from Terralith_v2.3.6.jar)
+- terralith:ice_marsh (from Terralith_v2.3.6.jar)
+- terralith:scarlet_mountains (from Terralith_v2.3.6.jar)
+- terralith:skylands_winter (from Terralith_v2.3.6.jar)
+- terralith:snowy_badlands (from Terralith_v2.3.6.jar)
+- terralith:snowy_maple_forest (from Terralith_v2.3.6.jar)
+- terralith:snowy_shield (from Terralith_v2.3.6.jar)
+- terralith:wintry_forest (from Terralith_v2.3.6.jar)
+- terralith:wintry_lowlands (from Terralith_v2.3.6.jar)
+
+#idas:collections/idasnether_souls
+- minecraft:soul_sand_valley (from idas_forge-1.6.0+1.19.2.jar)
+
+#minecraft:is_end
+- minecraft:the_end (from Default)
+- minecraft:end_highlands (from Default)
+- minecraft:end_midlands (from Default)
+- minecraft:small_end_islands (from Default)
+- minecraft:end_barrens (from Default)
+
+#c:climate_dry
+- terralith:alpine_highlands (from Terralith_v2.3.6.jar)
+- terralith:ancient_sands (from Terralith_v2.3.6.jar)
+- terralith:arid_highlands (from Terralith_v2.3.6.jar)
+- terralith:ashen_savanna (from Terralith_v2.3.6.jar)
+- terralith:basalt_cliffs (from Terralith_v2.3.6.jar)
+- terralith:brushland (from Terralith_v2.3.6.jar)
+- terralith:bryce_canyon (from Terralith_v2.3.6.jar)
+- terralith:desert_canyon (from Terralith_v2.3.6.jar)
+- terralith:desert_spires (from Terralith_v2.3.6.jar)
+- terralith:hot_shrubland (from Terralith_v2.3.6.jar)
+- terralith:lush_desert (from Terralith_v2.3.6.jar)
+- terralith:painted_mountains (from Terralith_v2.3.6.jar)
+- terralith:rocky_shrubland (from Terralith_v2.3.6.jar)
+- terralith:sandstone_valley (from Terralith_v2.3.6.jar)
+- terralith:savanna_badlands (from Terralith_v2.3.6.jar)
+- terralith:savanna_slopes (from Terralith_v2.3.6.jar)
+- terralith:shrubland (from Terralith_v2.3.6.jar)
+- terralith:siberian_taiga (from Terralith_v2.3.6.jar)
+- terralith:snowy_badlands (from Terralith_v2.3.6.jar)
+- terralith:stony_spires (from Terralith_v2.3.6.jar)
+- terralith:valley_clearing (from Terralith_v2.3.6.jar)
+- terralith:warped_mesa (from Terralith_v2.3.6.jar)
+- terralith:white_mesa (from Terralith_v2.3.6.jar)
+- terralith:cave/desert_caves (from Terralith_v2.3.6.jar)
+
+#forge:is_underground
+- terralith:cave/andesite_caves (from Terralith_v2.3.6.jar)
+- terralith:cave/crystal_caves (from Terralith_v2.3.6.jar)
+- terralith:cave/deep_caves (from Terralith_v2.3.6.jar)
+- terralith:cave/desert_caves (from Terralith_v2.3.6.jar)
+- terralith:cave/diorite_caves (from Terralith_v2.3.6.jar)
+- terralith:cave/frostfire_caves (from Terralith_v2.3.6.jar)
+- terralith:cave/fungal_caves (from Terralith_v2.3.6.jar)
+- terralith:cave/granite_caves (from Terralith_v2.3.6.jar)
+- terralith:cave/ice_caves (from Terralith_v2.3.6.jar)
+- terralith:cave/infested_caves (from Terralith_v2.3.6.jar)
+- terralith:cave/mantle_caves (from Terralith_v2.3.6.jar)
+- terralith:cave/thermal_caves (from Terralith_v2.3.6.jar)
+- terralith:cave/tuff_caves (from Terralith_v2.3.6.jar)
+- terralith:cave/underground_jungle (from Terralith_v2.3.6.jar)
+- #forge:is_cave (from forge-1.19.2-43.2.3-universal.jar)
+- quark:glimmering_weald (from Quark-3.4-393.jar)
+
+#ad_astra:has_structure/meteor_biomes
+- #minecraft:is_jungle (from ad_astra-forge-1.19.2-1.12.3.jar)
+- #minecraft:is_forest (from ad_astra-forge-1.19.2-1.12.3.jar)
+- #minecraft:is_taiga (from ad_astra-forge-1.19.2-1.12.3.jar)
+- minecraft:desert (from ad_astra-forge-1.19.2-1.12.3.jar)
+- minecraft:plains (from ad_astra-forge-1.19.2-1.12.3.jar)
+- minecraft:snowy_plains (from ad_astra-forge-1.19.2-1.12.3.jar)
+- minecraft:sunflower_plains (from ad_astra-forge-1.19.2-1.12.3.jar)
+- minecraft:savanna (from ad_astra-forge-1.19.2-1.12.3.jar)
+- minecraft:savanna_plateau (from ad_astra-forge-1.19.2-1.12.3.jar)
+- minecraft:windswept_savanna (from ad_astra-forge-1.19.2-1.12.3.jar)
+
+#minecraft:without_zombie_sieges
+- minecraft:mushroom_fields (from Default)
+
+#dungeons_arise:has_structure/foundry_biomes
+- #minecraft:is_jungle (from DungeonsArise-1.19.2-2.1.54-release.jar)
+- #minecraft:is_forest (from DungeonsArise-1.19.2-2.1.54-release.jar)
+- #minecraft:is_taiga (from DungeonsArise-1.19.2-2.1.54-release.jar)
+- minecraft:desert (from DungeonsArise-1.19.2-2.1.54-release.jar)
+- minecraft:plains (from DungeonsArise-1.19.2-2.1.54-release.jar)
+- minecraft:snowy_plains (from DungeonsArise-1.19.2-2.1.54-release.jar)
+- minecraft:sunflower_plains (from DungeonsArise-1.19.2-2.1.54-release.jar)
+- minecraft:savanna (from DungeonsArise-1.19.2-2.1.54-release.jar)
+- minecraft:savanna_plateau (from DungeonsArise-1.19.2-2.1.54-release.jar)
+- minecraft:windswept_savanna (from DungeonsArise-1.19.2-2.1.54-release.jar)
+
+#idas:has_structure/bygmohogany_biomes
+- byg:tropical_rainforest (from idas_forge-1.6.0+1.19.2.jar)
+
+#c:mesa
+- terralith:ancient_sands (from Terralith_v2.3.6.jar)
+- terralith:bryce_canyon (from Terralith_v2.3.6.jar)
+- terralith:painted_mountains (from Terralith_v2.3.6.jar)
+- terralith:red_oasis (from Terralith_v2.3.6.jar)
+- terralith:warped_mesa (from Terralith_v2.3.6.jar)
+- terralith:white_mesa (from Terralith_v2.3.6.jar)
+
+#minecraft:is_taiga
+- minecraft:taiga (from Default)
+- minecraft:snowy_taiga (from Default)
+- minecraft:old_growth_pine_taiga (from Default)
+- minecraft:old_growth_spruce_taiga (from Default)
+- minecraft:taiga (from Terralith_v2.3.6.jar)
+- minecraft:snowy_taiga (from Terralith_v2.3.6.jar)
+- minecraft:old_growth_pine_taiga (from Terralith_v2.3.6.jar)
+- minecraft:old_growth_spruce_taiga (from Terralith_v2.3.6.jar)
+- terralith:birch_taiga (from Terralith_v2.3.6.jar)
+- terralith:lush_valley (from Terralith_v2.3.6.jar)
+- terralith:shield (from Terralith_v2.3.6.jar)
+- terralith:yellowstone (from Terralith_v2.3.6.jar)
+- terralith:forested_highlands (from Terralith_v2.3.6.jar)
+- terralith:wintry_forest (from Terralith_v2.3.6.jar)
+- terralith:yosemite_lowlands (from Terralith_v2.3.6.jar)
+
+#idas:has_structure/birch_biomes
+- #idas:collections/idasbirch_forests (from idas_forge-1.6.0+1.19.2.jar)
+
+#minecraft:spawns_warm_variant_frogs
+- minecraft:desert (from Default)
+- minecraft:warm_ocean (from Default)
+- #minecraft:is_jungle (from Default)
+- #minecraft:is_savanna (from Default)
+- #minecraft:is_nether (from Default)
+- #minecraft:is_badlands (from Default)
+- minecraft:mangrove_swamp (from Default)
+- minecraft:desert (from Terralith_v2.3.6.jar)
+- minecraft:warm_ocean (from Terralith_v2.3.6.jar)
+- #minecraft:is_jungle (from Terralith_v2.3.6.jar)
+- #minecraft:is_savanna (from Terralith_v2.3.6.jar)
+- #minecraft:is_nether (from Terralith_v2.3.6.jar)
+- #minecraft:is_badlands (from Terralith_v2.3.6.jar)
+- minecraft:mangrove_swamp (from Terralith_v2.3.6.jar)
+- terralith:arid_highlands (from Terralith_v2.3.6.jar)
+- terralith:ashen_savanna (from Terralith_v2.3.6.jar)
+- terralith:brushland (from Terralith_v2.3.6.jar)
+- terralith:fractured_savanna (from Terralith_v2.3.6.jar)
+- terralith:savanna_badlands (from Terralith_v2.3.6.jar)
+- terralith:savanna_slopes (from Terralith_v2.3.6.jar)
+- terralith:shrubland (from Terralith_v2.3.6.jar)
+- terralith:ancient_sands (from Terralith_v2.3.6.jar)
+- terralith:desert_canyon (from Terralith_v2.3.6.jar)
+- terralith:desert_oasis (from Terralith_v2.3.6.jar)
+- terralith:desert_spires (from Terralith_v2.3.6.jar)
+- terralith:red_oasis (from Terralith_v2.3.6.jar)
+- terralith:sandstone_valley (from Terralith_v2.3.6.jar)
+- terralith:lush_desert (from Terralith_v2.3.6.jar)
+- terralith:hot_shrubland (from Terralith_v2.3.6.jar)
+- terralith:skylands_summer (from Terralith_v2.3.6.jar)
+- terralith:warm_river (from Terralith_v2.3.6.jar)
+- terralith:white_mesa (from Terralith_v2.3.6.jar)
+- terralith:volcanic_peaks (from Terralith_v2.3.6.jar)
+- terralith:volcanic_crater (from Terralith_v2.3.6.jar)
+
+#minecraft:mineshaft_blocking
+- minecraft:deep_dark (from Default)
+
+#forge:is_wasteland
+- terralith:ashen_savanna (from Terralith_v2.3.6.jar)
+- terralith:basalt_cliffs (from Terralith_v2.3.6.jar)
+- terralith:caldera (from Terralith_v2.3.6.jar)
+- terralith:gravel_desert (from Terralith_v2.3.6.jar)
+- terralith:ice_marsh (from Terralith_v2.3.6.jar)
+- terralith:snowy_badlands (from Terralith_v2.3.6.jar)
+- terralith:volcanic_crater (from Terralith_v2.3.6.jar)
+- terralith:volcanic_peaks (from Terralith_v2.3.6.jar)
+- terralith:yellowstone (from Terralith_v2.3.6.jar)
+- minecraft:snowy_plains (from forge-1.19.2-43.2.3-universal.jar)
+
+#idas:collections/idasjungles
+- #minecraft:is_jungle (from idas_forge-1.6.0+1.19.2.jar)
+- terralith:amethyst_rainforest? (from idas_forge-1.6.0+1.19.2.jar)
+- terralith:rocky_jungle? (from idas_forge-1.6.0+1.19.2.jar)
+- terralith:tropical_jungle? (from idas_forge-1.6.0+1.19.2.jar)
+- forge:jungle? (from idas_forge-1.6.0+1.19.2.jar)
+- c:jungle? (from idas_forge-1.6.0+1.19.2.jar)
+
+#minecraft:has_structure/village_snowy
+- minecraft:snowy_plains (from Default)
+- minecraft:snowy_plains (from Terralith_v2.3.6.jar)
+- terralith:snowy_badlands (from Terralith_v2.3.6.jar)
+
+#c:snowy
+- terralith:alpha_islands_winter (from Terralith_v2.3.6.jar)
+- terralith:alpine_grove (from Terralith_v2.3.6.jar)
+- terralith:cold_shrubland (from Terralith_v2.3.6.jar)
+- terralith:emerald_peaks (from Terralith_v2.3.6.jar)
+- terralith:gravel_desert (from Terralith_v2.3.6.jar)
+- terralith:ice_marsh (from Terralith_v2.3.6.jar)
+- terralith:rocky_mountains (from Terralith_v2.3.6.jar)
+- terralith:rocky_shrubland (from Terralith_v2.3.6.jar)
+- terralith:siberian_grove (from Terralith_v2.3.6.jar)
+- terralith:skylands_winter (from Terralith_v2.3.6.jar)
+- terralith:snowy_badlands (from Terralith_v2.3.6.jar)
+- terralith:snowy_maple_forest (from Terralith_v2.3.6.jar)
+- terralith:snowy_shield (from Terralith_v2.3.6.jar)
+- terralith:wintry_forest (from Terralith_v2.3.6.jar)
+- terralith:wintry_lowlands (from Terralith_v2.3.6.jar)
+
+#alexsmobs:spawns_white_seals
+- #forge:is_snowy (from alexsmobs-1.21.1.jar)
+
+#idas:has_structure/pillager_fortress_biomes
+- #idas:collections/idasplains (from idas_forge-1.6.0+1.19.2.jar)
+- #idas:collections/idasgiant_trees (from idas_forge-1.6.0+1.19.2.jar)
+- #idas:collections/idastaigas (from idas_forge-1.6.0+1.19.2.jar)
+- #idas:collections/idasmeadows (from idas_forge-1.6.0+1.19.2.jar)
+- #idas:collections/idasflower_forests (from idas_forge-1.6.0+1.19.2.jar)
+
+#idas:has_structure/bearclaw_inn_biomes
+- #idas:collections/idasregular_forests (from idas_forge-1.6.0+1.19.2.jar)
+- #idas:collections/idastaigas (from idas_forge-1.6.0+1.19.2.jar)
+- #idas:collections/idasgiant_taigas (from idas_forge-1.6.0+1.19.2.jar)
+
+#c:taiga
+- terralith:alpine_highlands (from Terralith_v2.3.6.jar)
+- terralith:bryce_canyon (from Terralith_v2.3.6.jar)
+- terralith:cloud_forest (from Terralith_v2.3.6.jar)
+- terralith:forested_highlands (from Terralith_v2.3.6.jar)
+- terralith:lush_valley (from Terralith_v2.3.6.jar)
+- terralith:scarlet_mountains (from Terralith_v2.3.6.jar)
+- terralith:shield (from Terralith_v2.3.6.jar)
+- terralith:siberian_grove (from Terralith_v2.3.6.jar)
+- terralith:siberian_taiga (from Terralith_v2.3.6.jar)
+- terralith:skylands_winter (from Terralith_v2.3.6.jar)
+- terralith:snowy_maple_forest (from Terralith_v2.3.6.jar)
+- terralith:valley_clearing (from Terralith_v2.3.6.jar)
+- terralith:wintry_forest (from Terralith_v2.3.6.jar)
+- terralith:wintry_lowlands (from Terralith_v2.3.6.jar)
+
+#dungeons_arise:has_structure/illager_galley_biomes
+- #minecraft:is_ocean (from DungeonsArise-1.19.2-2.1.54-release.jar)
+
+#idas:collections/idasstony_shores
+- minecraft:stony_shore (from idas_forge-1.6.0+1.19.2.jar)
+- terralith:gravel_desert? (from idas_forge-1.6.0+1.19.2.jar)
+- biomesoplenty:cold_desert? (from idas_forge-1.6.0+1.19.2.jar)
+- c:stony_shores? (from idas_forge-1.6.0+1.19.2.jar)
+
+#dungeons_arise:has_structure/mining_system_biomes
+- #minecraft:is_jungle (from DungeonsArise-1.19.2-2.1.54-release.jar)
+- #minecraft:is_forest (from DungeonsArise-1.19.2-2.1.54-release.jar)
+- #minecraft:is_taiga (from DungeonsArise-1.19.2-2.1.54-release.jar)
+- minecraft:desert (from DungeonsArise-1.19.2-2.1.54-release.jar)
+- minecraft:plains (from DungeonsArise-1.19.2-2.1.54-release.jar)
+- minecraft:snowy_plains (from DungeonsArise-1.19.2-2.1.54-release.jar)
+- minecraft:sunflower_plains (from DungeonsArise-1.19.2-2.1.54-release.jar)
+- minecraft:savanna (from DungeonsArise-1.19.2-2.1.54-release.jar)
+- minecraft:savanna_plateau (from DungeonsArise-1.19.2-2.1.54-release.jar)
+- minecraft:windswept_savanna (from DungeonsArise-1.19.2-2.1.54-release.jar)
+
+#dungeons_arise:has_structure/undead_pirate_ship_biomes
+- #minecraft:is_ocean (from DungeonsArise-1.19.2-2.1.54-release.jar)
+
+#ad_astra:has_structure/oil_well_biomes
+- #minecraft:is_ocean (from ad_astra-forge-1.19.2-1.12.3.jar)
+- #minecraft:is_deep_ocean (from ad_astra-forge-1.19.2-1.12.3.jar)
+- minecraft:swamp (from ad_astra-forge-1.19.2-1.12.3.jar)
+
+#idas:has_structure/hunters_cabin_biomes
+- #idas:collections/idasregular_forests (from idas_forge-1.6.0+1.19.2.jar)
+- #idas:collections/idastaigas (from idas_forge-1.6.0+1.19.2.jar)
+- #idas:collections/idasgiant_taigas (from idas_forge-1.6.0+1.19.2.jar)
+
+#minecraft:reduce_water_ambient_spawns
+- #minecraft:is_river (from Default)
+
+#alexsmobs:spawns_huge_catfish
+- #forge:is_swamp (from alexsmobs-1.21.1.jar)
+
+#forge:is_spooky
+- terralith:cave/frostfire_caves (from Terralith_v2.3.6.jar)
+- terralith:cave/infested_caves (from Terralith_v2.3.6.jar)
+- minecraft:dark_forest (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:deep_dark (from forge-1.19.2-43.2.3-universal.jar)
+
+#idas:collections/idasrocky_mountains
+- terralith:amethyst_canyon? (from idas_forge-1.6.0+1.19.2.jar)
+- terralith:basalt_cliffs? (from idas_forge-1.6.0+1.19.2.jar)
+- terralith:emerald_peaks? (from idas_forge-1.6.0+1.19.2.jar)
+- terralith:granite_cliffs? (from idas_forge-1.6.0+1.19.2.jar)
+- terralith:haze_mountain? (from idas_forge-1.6.0+1.19.2.jar)
+- terralith:mountain_steppe? (from idas_forge-1.6.0+1.19.2.jar)
+- terralith:painted_mountains? (from idas_forge-1.6.0+1.19.2.jar)
+- terralith:rocky_mountains? (from idas_forge-1.6.0+1.19.2.jar)
+- terralith:shield_clearing? (from idas_forge-1.6.0+1.19.2.jar)
+- terralith:steppe? (from idas_forge-1.6.0+1.19.2.jar)
+- terralith:stony_spires? (from idas_forge-1.6.0+1.19.2.jar)
+- terralith:valley_clearing? (from idas_forge-1.6.0+1.19.2.jar)
+- biomesoplenty:crag? (from idas_forge-1.6.0+1.19.2.jar)

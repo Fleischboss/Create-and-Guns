@@ -1,0 +1,197 @@
+To refresh this file, delete it and run /reload command again! Last updated: Mar 4, 2023, 10:45:14 AM
+
+#forge:oxygen
+- #ad_astra:oxygen (from ad_astra-forge-1.19.2-1.12.3.jar)
+
+#minecraft:water
+- minecraft:water (from Default)
+- minecraft:flowing_water (from Default)
+- createaddition:flowing_seed_oil (from createaddition-1.19.2-20230202b.jar)
+- createaddition:seed_oil (from createaddition-1.19.2-20230202b.jar)
+- ad_astra:fuel (from ad_astra-forge-1.19.2-1.12.3.jar)
+- ad_astra:flowing_fuel (from ad_astra-forge-1.19.2-1.12.3.jar)
+- ad_astra:oil (from ad_astra-forge-1.19.2-1.12.3.jar)
+- ad_astra:flowing_oil (from ad_astra-forge-1.19.2-1.12.3.jar)
+- ad_astra:cryo_fuel (from ad_astra-forge-1.19.2-1.12.3.jar)
+- ad_astra:flowing_cryo_fuel (from ad_astra-forge-1.19.2-1.12.3.jar)
+
+#forge:biodiesel
+- pneumaticcraft:biodiesel (from pneumaticcraft-repressurized-1.19.2-4.3.3-22.jar)
+- immersiveengineering:biodiesel (from ImmersiveEngineering-1.19.2-9.2.0-162.jar)
+
+#forge:milk
+- minecraft:milk? (from forge-1.19.2-43.2.3-universal.jar)
+- minecraft:flowing_milk? (from forge-1.19.2-43.2.3-universal.jar)
+
+#ad_astra:oxygen
+- ad_astra:oxygen (from ad_astra-forge-1.19.2-1.12.3.jar)
+
+#forge:gaseous
+- immersiveengineering:acetaldehyde (from ImmersiveEngineering-1.19.2-9.2.0-162.jar)
+
+#create:bottomless/deny
+
+#create:bottomless/allow
+- minecraft:water (from create-1.19.2-0.5.0.i.jar)
+- minecraft:lava (from create-1.19.2-0.5.0.i.jar)
+
+#forge:experience
+- pneumaticcraft:memory_essence (from pneumaticcraft-repressurized-1.19.2-4.3.3-22.jar)
+- cofh_core:experience (from cofh_core-1.19.2-10.2.1.40.jar)
+
+#forge:molten_bronze
+- createbigcannons:flowing_molten_bronze (from createbigcannons-1.19.2-beta-0.5.b.jar)
+- createbigcannons:molten_bronze (from createbigcannons-1.19.2-beta-0.5.b.jar)
+
+#forge:diesel
+- pneumaticcraft:diesel (from pneumaticcraft-repressurized-1.19.2-4.3.3-22.jar)
+
+#forge:oil
+- #ad_astra:oil (from ad_astra-forge-1.19.2-1.12.3.jar)
+
+#ae2:blacklisted/annihilation_plane
+
+#immersiveengineering:drill_fuel
+- #forge:biodiesel (from ImmersiveEngineering-1.19.2-9.2.0-162.jar)
+
+#pneumaticcraft:plastic
+- pneumaticcraft:plastic (from pneumaticcraft-repressurized-1.19.2-4.3.3-22.jar)
+
+#pneumaticcraft:etching_acid
+- pneumaticcraft:etching_acid (from pneumaticcraft-repressurized-1.19.2-4.3.3-22.jar)
+
+#forge:kerosene
+- pneumaticcraft:kerosene (from pneumaticcraft-repressurized-1.19.2-4.3.3-22.jar)
+
+#forge:creosote
+- immersiveengineering:creosote (from ImmersiveEngineering-1.19.2-9.2.0-162.jar)
+
+#ad_astra:oil
+- ad_astra:oil (from ad_astra-forge-1.19.2-1.12.3.jar)
+- ad_astra:flowing_oil (from ad_astra-forge-1.19.2-1.12.3.jar)
+- techreborn:oil? (from ad_astra-forge-1.19.2-1.12.3.jar)
+- modern_industrialization:crude_oil? (from ad_astra-forge-1.19.2-1.12.3.jar)
+- #forge:crude_oil? (from ad_astra-forge-1.19.2-1.12.3.jar)
+
+#forge:phenolic_resin
+- immersiveengineering:phenolic_resin (from ImmersiveEngineering-1.19.2-9.2.0-162.jar)
+
+#forge:lpg
+- pneumaticcraft:lpg (from pneumaticcraft-repressurized-1.19.2-4.3.3-22.jar)
+
+#forge:ink
+- create_enchantment_industry:flowing_ink (from create_enchantment_industry-1.19.2-for-create-0.5.0.i-1.1.14.jar)
+- create_enchantment_industry:ink (from create_enchantment_industry-1.19.2-for-create-0.5.0.i-1.1.14.jar)
+
+#forge:fuel
+- #ad_astra:fuel (from ad_astra-forge-1.19.2-1.12.3.jar)
+
+#forge:lubricant
+- pneumaticcraft:lubricant (from pneumaticcraft-repressurized-1.19.2-4.3.3-22.jar)
+
+#forge:crude_oil
+- pneumaticcraft:oil (from pneumaticcraft-repressurized-1.19.2-4.3.3-22.jar)
+- ad_astra:oil (from ad_astra-forge-1.19.2-1.12.3.jar)
+- ad_astra:flowing_oil (from ad_astra-forge-1.19.2-1.12.3.jar)
+
+#forge:herbicide
+- immersiveengineering:herbicide (from ImmersiveEngineering-1.19.2-9.2.0-162.jar)
+
+#ad_astra_platform:oil
+- #c:oil? (from ad_astra-forge-1.19.2-1.12.3.jar)
+- #forge:oil? (from ad_astra-forge-1.19.2-1.12.3.jar)
+
+#forge:biofuel
+- createaddition:flowing_bioethanol (from createaddition-1.19.2-20230202b.jar)
+- createaddition:bioethanol (from createaddition-1.19.2-20230202b.jar)
+
+#pneumaticcraft:seismic_sensor_interesting
+- #forge:crude_oil (from pneumaticcraft-repressurized-1.19.2-4.3.3-22.jar)
+
+#forge:molten_steel
+- createbigcannons:flowing_molten_steel (from createbigcannons-1.19.2-beta-0.5.b.jar)
+- createbigcannons:molten_steel (from createbigcannons-1.19.2-beta-0.5.b.jar)
+
+#forge:plantoil
+- pneumaticcraft:vegetable_oil (from pneumaticcraft-repressurized-1.19.2-4.3.3-22.jar)
+- immersiveengineering:plantoil (from ImmersiveEngineering-1.19.2-9.2.0-162.jar)
+- createaddition:flowing_seed_oil (from createaddition-1.19.2-20230202b.jar)
+- createaddition:seed_oil (from createaddition-1.19.2-20230202b.jar)
+
+#minecraft:lava
+- minecraft:lava (from Default)
+- minecraft:flowing_lava (from Default)
+
+#create_enchantment_industry:printer_input
+- create_enchantment_industry:flowing_experience (from create_enchantment_industry-1.19.2-for-create-0.5.0.i-1.1.14.jar)
+- create_enchantment_industry:experience (from create_enchantment_industry-1.19.2-for-create-0.5.0.i-1.1.14.jar)
+- #forge:ink (from create_enchantment_industry-1.19.2-for-create-0.5.0.i-1.1.14.jar)
+
+#forge:ethanol
+- pneumaticcraft:ethanol (from pneumaticcraft-repressurized-1.19.2-4.3.3-22.jar)
+- immersiveengineering:ethanol (from ImmersiveEngineering-1.19.2-9.2.0-162.jar)
+- createaddition:flowing_bioethanol (from createaddition-1.19.2-20230202b.jar)
+- createaddition:bioethanol (from createaddition-1.19.2-20230202b.jar)
+
+#ad_astra:fuel
+- ad_astra:fuel (from ad_astra-forge-1.19.2-1.12.3.jar)
+- ad_astra:flowing_fuel (from ad_astra-forge-1.19.2-1.12.3.jar)
+- #ad_astra:efficient_fuel (from ad_astra-forge-1.19.2-1.12.3.jar)
+
+#forge:chocolate
+- create:flowing_chocolate (from create-1.19.2-0.5.0.i.jar)
+- create:chocolate (from create-1.19.2-0.5.0.i.jar)
+
+#forge:redstone_acid
+- immersiveengineering:redstone_acid (from ImmersiveEngineering-1.19.2-9.2.0-162.jar)
+
+#ad_astra:efficient_fuel
+- ad_astra:cryo_fuel (from ad_astra-forge-1.19.2-1.12.3.jar)
+- ad_astra:flowing_cryo_fuel (from ad_astra-forge-1.19.2-1.12.3.jar)
+
+#forge:concrete
+- immersiveengineering:concrete (from ImmersiveEngineering-1.19.2-9.2.0-162.jar)
+
+#forge:potion
+- cofh_core:potion (from cofh_core-1.19.2-10.2.1.40.jar)
+- immersiveengineering:potion (from ImmersiveEngineering-1.19.2-9.2.0-162.jar)
+
+#forge:gasoline
+- pneumaticcraft:gasoline (from pneumaticcraft-repressurized-1.19.2-4.3.3-22.jar)
+
+#forge:tea
+- create:flowing_tea (from create-1.19.2-0.5.0.i.jar)
+- create:tea (from create-1.19.2-0.5.0.i.jar)
+
+#forge:molten_cast_iron
+- createbigcannons:flowing_molten_cast_iron (from createbigcannons-1.19.2-beta-0.5.b.jar)
+- createbigcannons:molten_cast_iron (from createbigcannons-1.19.2-beta-0.5.b.jar)
+
+#pneumaticcraft:yeast_culture
+- pneumaticcraft:yeast_culture (from pneumaticcraft-repressurized-1.19.2-4.3.3-22.jar)
+
+#ad_astra_platform:fuel
+- #c:fuel? (from ad_astra-forge-1.19.2-1.12.3.jar)
+- #forge:fuel? (from ad_astra-forge-1.19.2-1.12.3.jar)
+
+#create_enchantment_industry:blaze_enchanter_input
+- create_enchantment_industry:flowing_experience (from create_enchantment_industry-1.19.2-for-create-0.5.0.i-1.1.14.jar)
+- create_enchantment_industry:experience (from create_enchantment_industry-1.19.2-for-create-0.5.0.i-1.1.14.jar)
+- create_enchantment_industry:flowing_hyper_experience (from create_enchantment_industry-1.19.2-for-create-0.5.0.i-1.1.14.jar)
+- create_enchantment_industry:hyper_experience (from create_enchantment_industry-1.19.2-for-create-0.5.0.i-1.1.14.jar)
+
+#decorative_blocks:thatch
+- decorative_blocks:thatch (from Decorative Blocks-forge-1.19.2-3.0.0.jar)
+- decorative_blocks:flowing_thatch (from Decorative Blocks-forge-1.19.2-3.0.0.jar)
+
+#forge:honey
+- cofh_core:honey (from cofh_core-1.19.2-10.2.1.40.jar)
+- create:flowing_honey (from create-1.19.2-0.5.0.i.jar)
+- create:honey (from create-1.19.2-0.5.0.i.jar)
+
+#ad_astra_platform:oxygen
+- #c:oxygen? (from ad_astra-forge-1.19.2-1.12.3.jar)
+- #forge:oxygen? (from ad_astra-forge-1.19.2-1.12.3.jar)
+
+#forge:acetaldehyde
+- immersiveengineering:acetaldehyde (from ImmersiveEngineering-1.19.2-9.2.0-162.jar)
